@@ -1,0 +1,78 @@
+
+baseline (apptainer's own load time)
+  Kruskal-Wallis across 9 combos: H=237.19 p=8.93e-47 (differs by combo)
+  combo        median   vs lz4 p
+  lz4          116.74         --
+  gzip:1       140.40  3.02e-11*
+  gzip:6       135.09  3.02e-11*
+  gzip:9       136.96  3.02e-11*
+  zstd:1       127.61  2.37e-10*
+  zstd:8       124.21  4.62e-10*
+  zstd:14      125.04  5.57e-10*
+  zstd:19      124.21  5.57e-10*
+  zstd:22      129.35   6.7e-11*
+
+samtools minus baseline (tool's own added cost)
+  Kruskal-Wallis across 9 combos: H=257.84 p=3.75e-51 (differs by combo)
+  combo        median   vs lz4 p
+  lz4           34.88         --
+  gzip:1        73.37  3.02e-11*
+  gzip:6        68.56  3.02e-11*
+  gzip:9        69.33  3.02e-11*
+  zstd:1        41.14  3.82e-10*
+  zstd:8        46.13  3.02e-11*
+  zstd:14       55.00  3.02e-11*
+  zstd:19       56.93  3.02e-11*
+  zstd:22       53.12  3.02e-11*
+
+java minus baseline (tool's own added cost)
+  Kruskal-Wallis across 9 combos: H=252.50 p=5.08e-50 (differs by combo)
+  combo        median   vs lz4 p
+  lz4           85.78         --
+  gzip:1       197.04  3.02e-11*
+  gzip:6       181.33  3.02e-11*
+  gzip:9       193.69  3.02e-11*
+  zstd:1       115.76  3.02e-11*
+  zstd:8       122.66  3.02e-11*
+  zstd:14      140.91  3.02e-11*
+  zstd:19      139.45  3.02e-11*
+  zstd:22      139.49  3.02e-11*
+
+python-import minus baseline (tool's own added cost)
+  Kruskal-Wallis across 9 combos: H=252.15 p=6.04e-50 (differs by combo)
+  combo        median   vs lz4 p
+  lz4         1890.97         --
+  gzip:1      2294.52  3.02e-11*
+  gzip:6      2253.84  3.02e-11*
+  gzip:9      2256.28  3.02e-11*
+  zstd:1      2020.97  3.02e-11*
+  zstd:8      2036.44  3.02e-11*
+  zstd:14     2141.20  3.02e-11*
+  zstd:19     2093.36  3.02e-11*
+  zstd:22     2098.82  3.02e-11*
+
+snakemake minus baseline (tool's own added cost)
+  Kruskal-Wallis across 9 combos: H=235.02 p=2.57e-46 (differs by combo)
+  combo        median   vs lz4 p
+  lz4         1209.20         --
+  gzip:1      1428.77  3.02e-11*
+  gzip:6      1431.16  3.02e-11*
+  gzip:9      1421.96  3.02e-11*
+  zstd:1      1292.57  3.02e-11*
+  zstd:8      1285.99  3.69e-11*
+  zstd:14     1317.21  3.02e-11*
+  zstd:19     1328.17  3.02e-11*
+  zstd:22     1329.59  3.02e-11*
+
+cutadapt minus baseline (tool's own added cost)
+  Kruskal-Wallis across 9 combos: H=251.89 p=6.85e-50 (differs by combo)
+  combo        median   vs lz4 p
+  lz4          169.31         --
+  gzip:1       226.95  3.02e-11*
+  gzip:6       224.92  3.02e-11*
+  gzip:9       226.90  3.02e-11*
+  zstd:1       183.07  6.07e-11*
+  zstd:8       188.07  3.02e-11*
+  zstd:14      203.66  3.02e-11*
+  zstd:19      200.96  3.02e-11*
+  zstd:22      195.85  3.02e-11*

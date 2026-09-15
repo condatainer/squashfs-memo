@@ -1,0 +1,13 @@
+# images
+*sif
+*sqf
+*img
+*ext3
+
+# python cache
+__pycache__/
+*.pyc
+
+# job output
+*.out
+!compress/apptainer_exec_test.out

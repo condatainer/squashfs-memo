@@ -1,0 +1,1621 @@
+combo,algo,level,tool,cmd,run,ns,peak_rss_kb,image_bytes
+lz4,lz4,,samtools,"samtools --version",0,155378052,45176,613892096
+lz4,lz4,,samtools,"samtools --version",1,151240758,43568,613892096
+lz4,lz4,,samtools,"samtools --version",2,153871886,42128,613892096
+lz4,lz4,,samtools,"samtools --version",3,154068715,45336,613892096
+lz4,lz4,,samtools,"samtools --version",4,154362257,43712,613892096
+lz4,lz4,,samtools,"samtools --version",5,150554671,44608,613892096
+lz4,lz4,,samtools,"samtools --version",6,152572901,43580,613892096
+lz4,lz4,,samtools,"samtools --version",7,152219085,44552,613892096
+lz4,lz4,,samtools,"samtools --version",8,152482772,42336,613892096
+lz4,lz4,,samtools,"samtools --version",9,152084699,42908,613892096
+lz4,lz4,,samtools,"samtools --version",10,152511473,42940,613892096
+lz4,lz4,,samtools,"samtools --version",11,150461619,43376,613892096
+lz4,lz4,,samtools,"samtools --version",12,150400409,42780,613892096
+lz4,lz4,,samtools,"samtools --version",13,151483126,43260,613892096
+lz4,lz4,,samtools,"samtools --version",14,153580355,45888,613892096
+lz4,lz4,,samtools,"samtools --version",15,151634521,43228,613892096
+lz4,lz4,,samtools,"samtools --version",16,153792626,42768,613892096
+lz4,lz4,,samtools,"samtools --version",17,153490875,43064,613892096
+lz4,lz4,,samtools,"samtools --version",18,151612542,43280,613892096
+lz4,lz4,,samtools,"samtools --version",19,151068533,43364,613892096
+lz4,lz4,,samtools,"samtools --version",20,148947698,42720,613892096
+lz4,lz4,,samtools,"samtools --version",21,150402003,43468,613892096
+lz4,lz4,,samtools,"samtools --version",22,150443486,42812,613892096
+lz4,lz4,,samtools,"samtools --version",23,154177827,40676,613892096
+lz4,lz4,,samtools,"samtools --version",24,159904861,43076,613892096
+lz4,lz4,,samtools,"samtools --version",25,149371469,44628,613892096
+lz4,lz4,,samtools,"samtools --version",26,150888628,42544,613892096
+lz4,lz4,,samtools,"samtools --version",27,149389568,42984,613892096
+lz4,lz4,,samtools,"samtools --version",28,149002041,45048,613892096
+lz4,lz4,,samtools,"samtools --version",29,148350044,42520,613892096
+lz4,lz4,,python-import,"python3 -c 'import numpy, pandas, sklearn'",0,2000352760,139080,613892096
+lz4,lz4,,python-import,"python3 -c 'import numpy, pandas, sklearn'",1,2029978639,139472,613892096
+lz4,lz4,,python-import,"python3 -c 'import numpy, pandas, sklearn'",2,2086902945,139340,613892096
+lz4,lz4,,python-import,"python3 -c 'import numpy, pandas, sklearn'",3,2039230483,139148,613892096
+lz4,lz4,,python-import,"python3 -c 'import numpy, pandas, sklearn'",4,2068813095,138664,613892096
+lz4,lz4,,python-import,"python3 -c 'import numpy, pandas, sklearn'",5,2038338286,138048,613892096
+lz4,lz4,,python-import,"python3 -c 'import numpy, pandas, sklearn'",6,2019863695,138668,613892096
+lz4,lz4,,python-import,"python3 -c 'import numpy, pandas, sklearn'",7,1997227332,139044,613892096
+lz4,lz4,,python-import,"python3 -c 'import numpy, pandas, sklearn'",8,2001548676,139416,613892096
+lz4,lz4,,python-import,"python3 -c 'import numpy, pandas, sklearn'",9,2000447599,138432,613892096
+lz4,lz4,,python-import,"python3 -c 'import numpy, pandas, sklearn'",10,1997460652,139260,613892096
+lz4,lz4,,python-import,"python3 -c 'import numpy, pandas, sklearn'",11,2023521381,138952,613892096
+lz4,lz4,,python-import,"python3 -c 'import numpy, pandas, sklearn'",12,2055289013,140908,613892096
+lz4,lz4,,python-import,"python3 -c 'import numpy, pandas, sklearn'",13,2058296123,140712,613892096
+lz4,lz4,,python-import,"python3 -c 'import numpy, pandas, sklearn'",14,2006166284,141068,613892096
+lz4,lz4,,python-import,"python3 -c 'import numpy, pandas, sklearn'",15,2015605830,139228,613892096
+lz4,lz4,,python-import,"python3 -c 'import numpy, pandas, sklearn'",16,1996513714,138944,613892096
+lz4,lz4,,python-import,"python3 -c 'import numpy, pandas, sklearn'",17,1994357870,140828,613892096
+lz4,lz4,,python-import,"python3 -c 'import numpy, pandas, sklearn'",18,1999321908,141484,613892096
+lz4,lz4,,python-import,"python3 -c 'import numpy, pandas, sklearn'",19,2010583302,138916,613892096
+lz4,lz4,,python-import,"python3 -c 'import numpy, pandas, sklearn'",20,1994451306,141300,613892096
+lz4,lz4,,python-import,"python3 -c 'import numpy, pandas, sklearn'",21,1990273038,138736,613892096
+lz4,lz4,,python-import,"python3 -c 'import numpy, pandas, sklearn'",22,2014282046,139664,613892096
+lz4,lz4,,python-import,"python3 -c 'import numpy, pandas, sklearn'",23,2005291422,139012,613892096
+lz4,lz4,,python-import,"python3 -c 'import numpy, pandas, sklearn'",24,1999672523,139916,613892096
+lz4,lz4,,python-import,"python3 -c 'import numpy, pandas, sklearn'",25,1994164555,139256,613892096
+lz4,lz4,,python-import,"python3 -c 'import numpy, pandas, sklearn'",26,2009265743,138924,613892096
+lz4,lz4,,python-import,"python3 -c 'import numpy, pandas, sklearn'",27,2101506169,138608,613892096
+lz4,lz4,,python-import,"python3 -c 'import numpy, pandas, sklearn'",28,2014319940,139660,613892096
+lz4,lz4,,python-import,"python3 -c 'import numpy, pandas, sklearn'",29,2003085621,141204,613892096
+lz4,lz4,,cutadapt,"cutadapt --version",0,289338198,42572,613892096
+lz4,lz4,,cutadapt,"cutadapt --version",1,286333806,43216,613892096
+lz4,lz4,,cutadapt,"cutadapt --version",2,284385562,40528,613892096
+lz4,lz4,,cutadapt,"cutadapt --version",3,287580539,44620,613892096
+lz4,lz4,,cutadapt,"cutadapt --version",4,284563062,42528,613892096
+lz4,lz4,,cutadapt,"cutadapt --version",5,284927099,42908,613892096
+lz4,lz4,,cutadapt,"cutadapt --version",6,283704654,44948,613892096
+lz4,lz4,,cutadapt,"cutadapt --version",7,285718387,44664,613892096
+lz4,lz4,,cutadapt,"cutadapt --version",8,286681434,42352,613892096
+lz4,lz4,,cutadapt,"cutadapt --version",9,287052613,42464,613892096
+lz4,lz4,,cutadapt,"cutadapt --version",10,298036033,41244,613892096
+lz4,lz4,,cutadapt,"cutadapt --version",11,290166503,41500,613892096
+lz4,lz4,,cutadapt,"cutadapt --version",12,286429610,42928,613892096
+lz4,lz4,,cutadapt,"cutadapt --version",13,286904595,44488,613892096
+lz4,lz4,,cutadapt,"cutadapt --version",14,284477896,41656,613892096
+lz4,lz4,,cutadapt,"cutadapt --version",15,289024421,42544,613892096
+lz4,lz4,,cutadapt,"cutadapt --version",16,283065714,41340,613892096
+lz4,lz4,,cutadapt,"cutadapt --version",17,285870756,45560,613892096
+lz4,lz4,,cutadapt,"cutadapt --version",18,288368107,44776,613892096
+lz4,lz4,,cutadapt,"cutadapt --version",19,285419564,42536,613892096
+lz4,lz4,,cutadapt,"cutadapt --version",20,291784622,42456,613892096
+lz4,lz4,,cutadapt,"cutadapt --version",21,283180828,45480,613892096
+lz4,lz4,,cutadapt,"cutadapt --version",22,287349104,42460,613892096
+lz4,lz4,,cutadapt,"cutadapt --version",23,286788601,43476,613892096
+lz4,lz4,,cutadapt,"cutadapt --version",24,285339495,43152,613892096
+lz4,lz4,,cutadapt,"cutadapt --version",25,285969001,43148,613892096
+lz4,lz4,,cutadapt,"cutadapt --version",26,284811941,42972,613892096
+lz4,lz4,,cutadapt,"cutadapt --version",27,285197253,43388,613892096
+lz4,lz4,,cutadapt,"cutadapt --version",28,286132542,42472,613892096
+lz4,lz4,,cutadapt,"cutadapt --version",29,284529400,43604,613892096
+lz4,lz4,,snakemake,"snakemake --version",0,1334137089,78976,613892096
+lz4,lz4,,snakemake,"snakemake --version",1,1315809393,79072,613892096
+lz4,lz4,,snakemake,"snakemake --version",2,1323801804,79148,613892096
+lz4,lz4,,snakemake,"snakemake --version",3,1330297141,79188,613892096
+lz4,lz4,,snakemake,"snakemake --version",4,1383042127,79216,613892096
+lz4,lz4,,snakemake,"snakemake --version",5,1330486178,79336,613892096
+lz4,lz4,,snakemake,"snakemake --version",6,1300078095,79184,613892096
+lz4,lz4,,snakemake,"snakemake --version",7,1329017022,79436,613892096
+lz4,lz4,,snakemake,"snakemake --version",8,1314190206,79136,613892096
+lz4,lz4,,snakemake,"snakemake --version",9,1327432705,78940,613892096
+lz4,lz4,,snakemake,"snakemake --version",10,1326376729,79016,613892096
+lz4,lz4,,snakemake,"snakemake --version",11,1322254393,79420,613892096
+lz4,lz4,,snakemake,"snakemake --version",12,1344181223,79132,613892096
+lz4,lz4,,snakemake,"snakemake --version",13,1311206374,79336,613892096
+lz4,lz4,,snakemake,"snakemake --version",14,1319258045,78796,613892096
+lz4,lz4,,snakemake,"snakemake --version",15,1325510200,78880,613892096
+lz4,lz4,,snakemake,"snakemake --version",16,1322367027,78988,613892096
+lz4,lz4,,snakemake,"snakemake --version",17,1311405899,79088,613892096
+lz4,lz4,,snakemake,"snakemake --version",18,1323872817,78688,613892096
+lz4,lz4,,snakemake,"snakemake --version",19,1329150835,79388,613892096
+lz4,lz4,,snakemake,"snakemake --version",20,1317724101,78920,613892096
+lz4,lz4,,snakemake,"snakemake --version",21,1312231359,79144,613892096
+lz4,lz4,,snakemake,"snakemake --version",22,1334604451,78852,613892096
+lz4,lz4,,snakemake,"snakemake --version",23,1356001569,78708,613892096
+lz4,lz4,,snakemake,"snakemake --version",24,1317428671,79028,613892096
+lz4,lz4,,snakemake,"snakemake --version",25,1330472720,79196,613892096
+lz4,lz4,,snakemake,"snakemake --version",26,1374463687,79400,613892096
+lz4,lz4,,snakemake,"snakemake --version",27,1346984331,79104,613892096
+lz4,lz4,,snakemake,"snakemake --version",28,1322975071,79224,613892096
+lz4,lz4,,snakemake,"snakemake --version",29,1329884578,78932,613892096
+lz4,lz4,,baseline,"true",0,118352632,42356,613892096
+lz4,lz4,,baseline,"true",1,128424988,43584,613892096
+lz4,lz4,,baseline,"true",2,117425841,42828,613892096
+lz4,lz4,,baseline,"true",3,118272310,45372,613892096
+lz4,lz4,,baseline,"true",4,115646802,44608,613892096
+lz4,lz4,,baseline,"true",5,116989709,43484,613892096
+lz4,lz4,,baseline,"true",6,115925619,42304,613892096
+lz4,lz4,,baseline,"true",7,115204788,42956,613892096
+lz4,lz4,,baseline,"true",8,116111609,44656,613892096
+lz4,lz4,,baseline,"true",9,116053723,43300,613892096
+lz4,lz4,,baseline,"true",10,117819305,42540,613892096
+lz4,lz4,,baseline,"true",11,116567040,42984,613892096
+lz4,lz4,,baseline,"true",12,118078870,43076,613892096
+lz4,lz4,,baseline,"true",13,118827226,42816,613892096
+lz4,lz4,,baseline,"true",14,116872797,45252,613892096
+lz4,lz4,,baseline,"true",15,118298593,44724,613892096
+lz4,lz4,,baseline,"true",16,115449627,43224,613892096
+lz4,lz4,,baseline,"true",17,117112199,43032,613892096
+lz4,lz4,,baseline,"true",18,116596757,42672,613892096
+lz4,lz4,,baseline,"true",19,118364334,45028,613892096
+lz4,lz4,,baseline,"true",20,117484653,41104,613892096
+lz4,lz4,,baseline,"true",21,116533011,42940,613892096
+lz4,lz4,,baseline,"true",22,117391404,42984,613892096
+lz4,lz4,,baseline,"true",23,116696652,42928,613892096
+lz4,lz4,,baseline,"true",24,115925485,43756,613892096
+lz4,lz4,,baseline,"true",25,116366418,44872,613892096
+lz4,lz4,,baseline,"true",26,116628363,42756,613892096
+lz4,lz4,,baseline,"true",27,115613740,42720,613892096
+lz4,lz4,,baseline,"true",28,116381007,43780,613892096
+lz4,lz4,,baseline,"true",29,116792978,41028,613892096
+lz4,lz4,,java,"java -version",0,201820035,46608,613892096
+lz4,lz4,,java,"java -version",1,201483361,46380,613892096
+lz4,lz4,,java,"java -version",2,200529030,45920,613892096
+lz4,lz4,,java,"java -version",3,201154210,46108,613892096
+lz4,lz4,,java,"java -version",4,200669169,48612,613892096
+lz4,lz4,,java,"java -version",5,200920309,47948,613892096
+lz4,lz4,,java,"java -version",6,201302943,46412,613892096
+lz4,lz4,,java,"java -version",7,201383159,46412,613892096
+lz4,lz4,,java,"java -version",8,198991494,46216,613892096
+lz4,lz4,,java,"java -version",9,202800945,46660,613892096
+lz4,lz4,,java,"java -version",10,199006063,46600,613892096
+lz4,lz4,,java,"java -version",11,198545616,46704,613892096
+lz4,lz4,,java,"java -version",12,205118583,46908,613892096
+lz4,lz4,,java,"java -version",13,205171143,46504,613892096
+lz4,lz4,,java,"java -version",14,204066324,46432,613892096
+lz4,lz4,,java,"java -version",15,205025313,46208,613892096
+lz4,lz4,,java,"java -version",16,216494693,46440,613892096
+lz4,lz4,,java,"java -version",17,204811744,46136,613892096
+lz4,lz4,,java,"java -version",18,202596892,48916,613892096
+lz4,lz4,,java,"java -version",19,203530599,48480,613892096
+lz4,lz4,,java,"java -version",20,204291956,46336,613892096
+lz4,lz4,,java,"java -version",21,202454798,46288,613892096
+lz4,lz4,,java,"java -version",22,206401978,47712,613892096
+lz4,lz4,,java,"java -version",23,204129712,46576,613892096
+lz4,lz4,,java,"java -version",24,210116248,48512,613892096
+lz4,lz4,,java,"java -version",25,203369791,48212,613892096
+lz4,lz4,,java,"java -version",26,201888161,46024,613892096
+lz4,lz4,,java,"java -version",27,203376018,46464,613892096
+lz4,lz4,,java,"java -version",28,202338617,46620,613892096
+lz4,lz4,,java,"java -version",29,201571907,46412,613892096
+gzip:1,gzip,1,samtools,"samtools --version",0,221381742,42632,495300608
+gzip:1,gzip,1,samtools,"samtools --version",1,213408716,43492,495300608
+gzip:1,gzip,1,samtools,"samtools --version",2,214671707,43600,495300608
+gzip:1,gzip,1,samtools,"samtools --version",3,225020190,45068,495300608
+gzip:1,gzip,1,samtools,"samtools --version",4,217543447,44572,495300608
+gzip:1,gzip,1,samtools,"samtools --version",5,213469145,42512,495300608
+gzip:1,gzip,1,samtools,"samtools --version",6,213347832,42564,495300608
+gzip:1,gzip,1,samtools,"samtools --version",7,212333553,45624,495300608
+gzip:1,gzip,1,samtools,"samtools --version",8,213166582,44616,495300608
+gzip:1,gzip,1,samtools,"samtools --version",9,212793386,44444,495300608
+gzip:1,gzip,1,samtools,"samtools --version",10,212037468,42516,495300608
+gzip:1,gzip,1,samtools,"samtools --version",11,216170064,43480,495300608
+gzip:1,gzip,1,samtools,"samtools --version",12,213167673,42392,495300608
+gzip:1,gzip,1,samtools,"samtools --version",13,217118259,43552,495300608
+gzip:1,gzip,1,samtools,"samtools --version",14,214457638,42556,495300608
+gzip:1,gzip,1,samtools,"samtools --version",15,214527850,42884,495300608
+gzip:1,gzip,1,samtools,"samtools --version",16,213765254,42832,495300608
+gzip:1,gzip,1,samtools,"samtools --version",17,213466419,40244,495300608
+gzip:1,gzip,1,samtools,"samtools --version",18,213317083,43456,495300608
+gzip:1,gzip,1,samtools,"samtools --version",19,223575831,44580,495300608
+gzip:1,gzip,1,samtools,"samtools --version",20,215541388,43288,495300608
+gzip:1,gzip,1,samtools,"samtools --version",21,214766342,45020,495300608
+gzip:1,gzip,1,samtools,"samtools --version",22,213707023,43104,495300608
+gzip:1,gzip,1,samtools,"samtools --version",23,212275058,43160,495300608
+gzip:1,gzip,1,samtools,"samtools --version",24,213537256,42692,495300608
+gzip:1,gzip,1,samtools,"samtools --version",25,216861195,44468,495300608
+gzip:1,gzip,1,samtools,"samtools --version",26,212345973,45368,495300608
+gzip:1,gzip,1,samtools,"samtools --version",27,213781885,40604,495300608
+gzip:1,gzip,1,samtools,"samtools --version",28,215412011,40932,495300608
+gzip:1,gzip,1,samtools,"samtools --version",29,219170809,43104,495300608
+gzip:1,gzip,1,python-import,"python3 -c 'import numpy, pandas, sklearn'",0,2433642878,138556,495300608
+gzip:1,gzip,1,python-import,"python3 -c 'import numpy, pandas, sklearn'",1,2422263879,141208,495300608
+gzip:1,gzip,1,python-import,"python3 -c 'import numpy, pandas, sklearn'",2,2441516069,138816,495300608
+gzip:1,gzip,1,python-import,"python3 -c 'import numpy, pandas, sklearn'",3,2422111692,139120,495300608
+gzip:1,gzip,1,python-import,"python3 -c 'import numpy, pandas, sklearn'",4,2454697770,139192,495300608
+gzip:1,gzip,1,python-import,"python3 -c 'import numpy, pandas, sklearn'",5,2433403376,138720,495300608
+gzip:1,gzip,1,python-import,"python3 -c 'import numpy, pandas, sklearn'",6,2446060229,139180,495300608
+gzip:1,gzip,1,python-import,"python3 -c 'import numpy, pandas, sklearn'",7,2413917203,138768,495300608
+gzip:1,gzip,1,python-import,"python3 -c 'import numpy, pandas, sklearn'",8,2425472654,140672,495300608
+gzip:1,gzip,1,python-import,"python3 -c 'import numpy, pandas, sklearn'",9,2468629477,138968,495300608
+gzip:1,gzip,1,python-import,"python3 -c 'import numpy, pandas, sklearn'",10,2446162091,138184,495300608
+gzip:1,gzip,1,python-import,"python3 -c 'import numpy, pandas, sklearn'",11,2443204996,138912,495300608
+gzip:1,gzip,1,python-import,"python3 -c 'import numpy, pandas, sklearn'",12,2441383177,139012,495300608
+gzip:1,gzip,1,python-import,"python3 -c 'import numpy, pandas, sklearn'",13,2433214374,138656,495300608
+gzip:1,gzip,1,python-import,"python3 -c 'import numpy, pandas, sklearn'",14,2421903796,138932,495300608
+gzip:1,gzip,1,python-import,"python3 -c 'import numpy, pandas, sklearn'",15,2473455884,138744,495300608
+gzip:1,gzip,1,python-import,"python3 -c 'import numpy, pandas, sklearn'",16,2419487177,140544,495300608
+gzip:1,gzip,1,python-import,"python3 -c 'import numpy, pandas, sklearn'",17,2426925323,139268,495300608
+gzip:1,gzip,1,python-import,"python3 -c 'import numpy, pandas, sklearn'",18,2432228044,138580,495300608
+gzip:1,gzip,1,python-import,"python3 -c 'import numpy, pandas, sklearn'",19,2420308554,138960,495300608
+gzip:1,gzip,1,python-import,"python3 -c 'import numpy, pandas, sklearn'",20,2443948787,138836,495300608
+gzip:1,gzip,1,python-import,"python3 -c 'import numpy, pandas, sklearn'",21,2436190416,139140,495300608
+gzip:1,gzip,1,python-import,"python3 -c 'import numpy, pandas, sklearn'",22,2422920047,139032,495300608
+gzip:1,gzip,1,python-import,"python3 -c 'import numpy, pandas, sklearn'",23,2440584698,139140,495300608
+gzip:1,gzip,1,python-import,"python3 -c 'import numpy, pandas, sklearn'",24,2465528452,139064,495300608
+gzip:1,gzip,1,python-import,"python3 -c 'import numpy, pandas, sklearn'",25,2470450690,138776,495300608
+gzip:1,gzip,1,python-import,"python3 -c 'import numpy, pandas, sklearn'",26,2416785861,139344,495300608
+gzip:1,gzip,1,python-import,"python3 -c 'import numpy, pandas, sklearn'",27,2450958418,138484,495300608
+gzip:1,gzip,1,python-import,"python3 -c 'import numpy, pandas, sklearn'",28,2436865699,138720,495300608
+gzip:1,gzip,1,python-import,"python3 -c 'import numpy, pandas, sklearn'",29,2421697361,138248,495300608
+gzip:1,gzip,1,cutadapt,"cutadapt --version",0,366330635,42628,495300608
+gzip:1,gzip,1,cutadapt,"cutadapt --version",1,366885741,43276,495300608
+gzip:1,gzip,1,cutadapt,"cutadapt --version",2,366395918,42320,495300608
+gzip:1,gzip,1,cutadapt,"cutadapt --version",3,362497769,43400,495300608
+gzip:1,gzip,1,cutadapt,"cutadapt --version",4,366879774,41904,495300608
+gzip:1,gzip,1,cutadapt,"cutadapt --version",5,365487523,40536,495300608
+gzip:1,gzip,1,cutadapt,"cutadapt --version",6,367566502,45368,495300608
+gzip:1,gzip,1,cutadapt,"cutadapt --version",7,369263610,42592,495300608
+gzip:1,gzip,1,cutadapt,"cutadapt --version",8,369638347,42208,495300608
+gzip:1,gzip,1,cutadapt,"cutadapt --version",9,367134553,41516,495300608
+gzip:1,gzip,1,cutadapt,"cutadapt --version",10,365293170,42556,495300608
+gzip:1,gzip,1,cutadapt,"cutadapt --version",11,367627396,45408,495300608
+gzip:1,gzip,1,cutadapt,"cutadapt --version",12,370062812,42816,495300608
+gzip:1,gzip,1,cutadapt,"cutadapt --version",13,365072360,42436,495300608
+gzip:1,gzip,1,cutadapt,"cutadapt --version",14,364240125,43404,495300608
+gzip:1,gzip,1,cutadapt,"cutadapt --version",15,367956010,44964,495300608
+gzip:1,gzip,1,cutadapt,"cutadapt --version",16,366092082,42292,495300608
+gzip:1,gzip,1,cutadapt,"cutadapt --version",17,365137540,42792,495300608
+gzip:1,gzip,1,cutadapt,"cutadapt --version",18,364162136,42696,495300608
+gzip:1,gzip,1,cutadapt,"cutadapt --version",19,363722876,43356,495300608
+gzip:1,gzip,1,cutadapt,"cutadapt --version",20,368146530,43404,495300608
+gzip:1,gzip,1,cutadapt,"cutadapt --version",21,366811868,45792,495300608
+gzip:1,gzip,1,cutadapt,"cutadapt --version",22,371307032,44300,495300608
+gzip:1,gzip,1,cutadapt,"cutadapt --version",23,369022835,44864,495300608
+gzip:1,gzip,1,cutadapt,"cutadapt --version",24,368576374,42728,495300608
+gzip:1,gzip,1,cutadapt,"cutadapt --version",25,368613082,45484,495300608
+gzip:1,gzip,1,cutadapt,"cutadapt --version",26,370462867,42956,495300608
+gzip:1,gzip,1,cutadapt,"cutadapt --version",27,372518002,45848,495300608
+gzip:1,gzip,1,cutadapt,"cutadapt --version",28,369005377,42756,495300608
+gzip:1,gzip,1,cutadapt,"cutadapt --version",29,370154414,44740,495300608
+gzip:1,gzip,1,snakemake,"snakemake --version",0,1567126338,79380,495300608
+gzip:1,gzip,1,snakemake,"snakemake --version",1,1571999318,78796,495300608
+gzip:1,gzip,1,snakemake,"snakemake --version",2,1585854277,79248,495300608
+gzip:1,gzip,1,snakemake,"snakemake --version",3,1568247649,78748,495300608
+gzip:1,gzip,1,snakemake,"snakemake --version",4,1564817683,78952,495300608
+gzip:1,gzip,1,snakemake,"snakemake --version",5,1571507479,79276,495300608
+gzip:1,gzip,1,snakemake,"snakemake --version",6,1569296601,78848,495300608
+gzip:1,gzip,1,snakemake,"snakemake --version",7,1554014798,78844,495300608
+gzip:1,gzip,1,snakemake,"snakemake --version",8,1566494623,78944,495300608
+gzip:1,gzip,1,snakemake,"snakemake --version",9,1569445978,79112,495300608
+gzip:1,gzip,1,snakemake,"snakemake --version",10,1586680406,78960,495300608
+gzip:1,gzip,1,snakemake,"snakemake --version",11,1563970128,79152,495300608
+gzip:1,gzip,1,snakemake,"snakemake --version",12,1560842997,78740,495300608
+gzip:1,gzip,1,snakemake,"snakemake --version",13,1563080162,79040,495300608
+gzip:1,gzip,1,snakemake,"snakemake --version",14,1572830902,78872,495300608
+gzip:1,gzip,1,snakemake,"snakemake --version",15,1563855104,78968,495300608
+gzip:1,gzip,1,snakemake,"snakemake --version",16,1567227862,79256,495300608
+gzip:1,gzip,1,snakemake,"snakemake --version",17,1575527647,78700,495300608
+gzip:1,gzip,1,snakemake,"snakemake --version",18,1568933087,78880,495300608
+gzip:1,gzip,1,snakemake,"snakemake --version",19,1569605553,79072,495300608
+gzip:1,gzip,1,snakemake,"snakemake --version",20,1578673989,79536,495300608
+gzip:1,gzip,1,snakemake,"snakemake --version",21,1569034816,78644,495300608
+gzip:1,gzip,1,snakemake,"snakemake --version",22,1588594873,78672,495300608
+gzip:1,gzip,1,snakemake,"snakemake --version",23,1568656012,79116,495300608
+gzip:1,gzip,1,snakemake,"snakemake --version",24,1573109442,79080,495300608
+gzip:1,gzip,1,snakemake,"snakemake --version",25,1563447207,78908,495300608
+gzip:1,gzip,1,snakemake,"snakemake --version",26,1569540345,78900,495300608
+gzip:1,gzip,1,snakemake,"snakemake --version",27,1599781808,79232,495300608
+gzip:1,gzip,1,snakemake,"snakemake --version",28,1556099430,79064,495300608
+gzip:1,gzip,1,snakemake,"snakemake --version",29,1571613473,79136,495300608
+gzip:1,gzip,1,baseline,"true",0,141829406,43056,495300608
+gzip:1,gzip,1,baseline,"true",1,138690718,43400,495300608
+gzip:1,gzip,1,baseline,"true",2,138298698,42600,495300608
+gzip:1,gzip,1,baseline,"true",3,140688229,43964,495300608
+gzip:1,gzip,1,baseline,"true",4,138611346,43432,495300608
+gzip:1,gzip,1,baseline,"true",5,137556886,43540,495300608
+gzip:1,gzip,1,baseline,"true",6,138111140,42980,495300608
+gzip:1,gzip,1,baseline,"true",7,139912872,42196,495300608
+gzip:1,gzip,1,baseline,"true",8,139664235,42880,495300608
+gzip:1,gzip,1,baseline,"true",9,142519344,42900,495300608
+gzip:1,gzip,1,baseline,"true",10,141701493,43152,495300608
+gzip:1,gzip,1,baseline,"true",11,142049235,45452,495300608
+gzip:1,gzip,1,baseline,"true",12,142102142,43124,495300608
+gzip:1,gzip,1,baseline,"true",13,140893226,42512,495300608
+gzip:1,gzip,1,baseline,"true",14,140143709,42624,495300608
+gzip:1,gzip,1,baseline,"true",15,139965213,43772,495300608
+gzip:1,gzip,1,baseline,"true",16,142047000,43180,495300608
+gzip:1,gzip,1,baseline,"true",17,143330083,42884,495300608
+gzip:1,gzip,1,baseline,"true",18,140375210,45648,495300608
+gzip:1,gzip,1,baseline,"true",19,140702510,42432,495300608
+gzip:1,gzip,1,baseline,"true",20,142661874,45540,495300608
+gzip:1,gzip,1,baseline,"true",21,140316477,43628,495300608
+gzip:1,gzip,1,baseline,"true",22,140426089,41032,495300608
+gzip:1,gzip,1,baseline,"true",23,141260622,42620,495300608
+gzip:1,gzip,1,baseline,"true",24,138600608,43540,495300608
+gzip:1,gzip,1,baseline,"true",25,146101804,42340,495300608
+gzip:1,gzip,1,baseline,"true",26,139497113,42368,495300608
+gzip:1,gzip,1,baseline,"true",27,139138582,43372,495300608
+gzip:1,gzip,1,baseline,"true",28,150360977,42804,495300608
+gzip:1,gzip,1,baseline,"true",29,138933872,42368,495300608
+gzip:1,gzip,1,java,"java -version",0,343743098,46416,495300608
+gzip:1,gzip,1,java,"java -version",1,338050459,46392,495300608
+gzip:1,gzip,1,java,"java -version",2,336516745,46112,495300608
+gzip:1,gzip,1,java,"java -version",3,337144939,46252,495300608
+gzip:1,gzip,1,java,"java -version",4,338161672,46300,495300608
+gzip:1,gzip,1,java,"java -version",5,336873983,46500,495300608
+gzip:1,gzip,1,java,"java -version",6,342097774,46280,495300608
+gzip:1,gzip,1,java,"java -version",7,336396683,46580,495300608
+gzip:1,gzip,1,java,"java -version",8,337544026,46564,495300608
+gzip:1,gzip,1,java,"java -version",9,334820223,46200,495300608
+gzip:1,gzip,1,java,"java -version",10,337904591,46352,495300608
+gzip:1,gzip,1,java,"java -version",11,337589114,48412,495300608
+gzip:1,gzip,1,java,"java -version",12,337618174,48424,495300608
+gzip:1,gzip,1,java,"java -version",13,340963660,46544,495300608
+gzip:1,gzip,1,java,"java -version",14,337127522,46436,495300608
+gzip:1,gzip,1,java,"java -version",15,335873496,46188,495300608
+gzip:1,gzip,1,java,"java -version",16,337717304,46300,495300608
+gzip:1,gzip,1,java,"java -version",17,337714795,46532,495300608
+gzip:1,gzip,1,java,"java -version",18,336743098,46252,495300608
+gzip:1,gzip,1,java,"java -version",19,337841114,46160,495300608
+gzip:1,gzip,1,java,"java -version",20,336359032,46832,495300608
+gzip:1,gzip,1,java,"java -version",21,339054582,46416,495300608
+gzip:1,gzip,1,java,"java -version",22,336133854,46404,495300608
+gzip:1,gzip,1,java,"java -version",23,337346456,46756,495300608
+gzip:1,gzip,1,java,"java -version",24,337908823,46360,495300608
+gzip:1,gzip,1,java,"java -version",25,338484704,48336,495300608
+gzip:1,gzip,1,java,"java -version",26,337334943,48416,495300608
+gzip:1,gzip,1,java,"java -version",27,335869075,46808,495300608
+gzip:1,gzip,1,java,"java -version",28,336587482,46476,495300608
+gzip:1,gzip,1,java,"java -version",29,335674203,46488,495300608
+gzip:6,gzip,6,samtools,"samtools --version",0,201287510,42488,453648384
+gzip:6,gzip,6,samtools,"samtools --version",1,204356309,42172,453648384
+gzip:6,gzip,6,samtools,"samtools --version",2,202156303,42700,453648384
+gzip:6,gzip,6,samtools,"samtools --version",3,204378389,42756,453648384
+gzip:6,gzip,6,samtools,"samtools --version",4,204766945,42512,453648384
+gzip:6,gzip,6,samtools,"samtools --version",5,205039262,45244,453648384
+gzip:6,gzip,6,samtools,"samtools --version",6,202881079,42260,453648384
+gzip:6,gzip,6,samtools,"samtools --version",7,204236734,43668,453648384
+gzip:6,gzip,6,samtools,"samtools --version",8,203375082,42388,453648384
+gzip:6,gzip,6,samtools,"samtools --version",9,202325562,42776,453648384
+gzip:6,gzip,6,samtools,"samtools --version",10,202664829,43976,453648384
+gzip:6,gzip,6,samtools,"samtools --version",11,203864178,42580,453648384
+gzip:6,gzip,6,samtools,"samtools --version",12,203981595,44312,453648384
+gzip:6,gzip,6,samtools,"samtools --version",13,203554059,44444,453648384
+gzip:6,gzip,6,samtools,"samtools --version",14,202173065,42012,453648384
+gzip:6,gzip,6,samtools,"samtools --version",15,204390659,45400,453648384
+gzip:6,gzip,6,samtools,"samtools --version",16,201328083,39804,453648384
+gzip:6,gzip,6,samtools,"samtools --version",17,202927201,45148,453648384
+gzip:6,gzip,6,samtools,"samtools --version",18,206288136,42388,453648384
+gzip:6,gzip,6,samtools,"samtools --version",19,203080100,42900,453648384
+gzip:6,gzip,6,samtools,"samtools --version",20,204012376,40584,453648384
+gzip:6,gzip,6,samtools,"samtools --version",21,204953101,42968,453648384
+gzip:6,gzip,6,samtools,"samtools --version",22,204629399,46156,453648384
+gzip:6,gzip,6,samtools,"samtools --version",23,204832935,43424,453648384
+gzip:6,gzip,6,samtools,"samtools --version",24,203519010,42524,453648384
+gzip:6,gzip,6,samtools,"samtools --version",25,203442951,42948,453648384
+gzip:6,gzip,6,samtools,"samtools --version",26,206793344,42168,453648384
+gzip:6,gzip,6,samtools,"samtools --version",27,203731593,43360,453648384
+gzip:6,gzip,6,samtools,"samtools --version",28,202504421,42176,453648384
+gzip:6,gzip,6,samtools,"samtools --version",29,203350621,45144,453648384
+gzip:6,gzip,6,python-import,"python3 -c 'import numpy, pandas, sklearn'",0,2407826844,139260,453648384
+gzip:6,gzip,6,python-import,"python3 -c 'import numpy, pandas, sklearn'",1,2375939363,139184,453648384
+gzip:6,gzip,6,python-import,"python3 -c 'import numpy, pandas, sklearn'",2,2384251562,140604,453648384
+gzip:6,gzip,6,python-import,"python3 -c 'import numpy, pandas, sklearn'",3,2374185695,138576,453648384
+gzip:6,gzip,6,python-import,"python3 -c 'import numpy, pandas, sklearn'",4,2378056548,139160,453648384
+gzip:6,gzip,6,python-import,"python3 -c 'import numpy, pandas, sklearn'",5,2393512138,140280,453648384
+gzip:6,gzip,6,python-import,"python3 -c 'import numpy, pandas, sklearn'",6,2402111578,138932,453648384
+gzip:6,gzip,6,python-import,"python3 -c 'import numpy, pandas, sklearn'",7,2413730231,138624,453648384
+gzip:6,gzip,6,python-import,"python3 -c 'import numpy, pandas, sklearn'",8,2375111311,138960,453648384
+gzip:6,gzip,6,python-import,"python3 -c 'import numpy, pandas, sklearn'",9,2397651729,138804,453648384
+gzip:6,gzip,6,python-import,"python3 -c 'import numpy, pandas, sklearn'",10,2375529307,139276,453648384
+gzip:6,gzip,6,python-import,"python3 -c 'import numpy, pandas, sklearn'",11,2412301641,139104,453648384
+gzip:6,gzip,6,python-import,"python3 -c 'import numpy, pandas, sklearn'",12,2398144482,139028,453648384
+gzip:6,gzip,6,python-import,"python3 -c 'import numpy, pandas, sklearn'",13,2376208478,140364,453648384
+gzip:6,gzip,6,python-import,"python3 -c 'import numpy, pandas, sklearn'",14,2367528464,139240,453648384
+gzip:6,gzip,6,python-import,"python3 -c 'import numpy, pandas, sklearn'",15,2390730117,141100,453648384
+gzip:6,gzip,6,python-import,"python3 -c 'import numpy, pandas, sklearn'",16,2394914769,138628,453648384
+gzip:6,gzip,6,python-import,"python3 -c 'import numpy, pandas, sklearn'",17,2390029980,139204,453648384
+gzip:6,gzip,6,python-import,"python3 -c 'import numpy, pandas, sklearn'",18,2372490822,139224,453648384
+gzip:6,gzip,6,python-import,"python3 -c 'import numpy, pandas, sklearn'",19,2362775106,139176,453648384
+gzip:6,gzip,6,python-import,"python3 -c 'import numpy, pandas, sklearn'",20,2379879975,139192,453648384
+gzip:6,gzip,6,python-import,"python3 -c 'import numpy, pandas, sklearn'",21,2387816980,138952,453648384
+gzip:6,gzip,6,python-import,"python3 -c 'import numpy, pandas, sklearn'",22,2390167728,139332,453648384
+gzip:6,gzip,6,python-import,"python3 -c 'import numpy, pandas, sklearn'",23,2357400750,138520,453648384
+gzip:6,gzip,6,python-import,"python3 -c 'import numpy, pandas, sklearn'",24,2362446549,139536,453648384
+gzip:6,gzip,6,python-import,"python3 -c 'import numpy, pandas, sklearn'",25,2390587234,139032,453648384
+gzip:6,gzip,6,python-import,"python3 -c 'import numpy, pandas, sklearn'",26,2405356600,139364,453648384
+gzip:6,gzip,6,python-import,"python3 -c 'import numpy, pandas, sklearn'",27,2381133597,140868,453648384
+gzip:6,gzip,6,python-import,"python3 -c 'import numpy, pandas, sklearn'",28,2397694297,138984,453648384
+gzip:6,gzip,6,python-import,"python3 -c 'import numpy, pandas, sklearn'",29,2460105938,138900,453648384
+gzip:6,gzip,6,cutadapt,"cutadapt --version",0,357281393,42312,453648384
+gzip:6,gzip,6,cutadapt,"cutadapt --version",1,370709886,43696,453648384
+gzip:6,gzip,6,cutadapt,"cutadapt --version",2,363451372,42296,453648384
+gzip:6,gzip,6,cutadapt,"cutadapt --version",3,359817191,45356,453648384
+gzip:6,gzip,6,cutadapt,"cutadapt --version",4,360205698,42608,453648384
+gzip:6,gzip,6,cutadapt,"cutadapt --version",5,355450245,43880,453648384
+gzip:6,gzip,6,cutadapt,"cutadapt --version",6,355508648,45112,453648384
+gzip:6,gzip,6,cutadapt,"cutadapt --version",7,352985860,42976,453648384
+gzip:6,gzip,6,cutadapt,"cutadapt --version",8,354147581,43052,453648384
+gzip:6,gzip,6,cutadapt,"cutadapt --version",9,354119207,43048,453648384
+gzip:6,gzip,6,cutadapt,"cutadapt --version",10,350346839,42960,453648384
+gzip:6,gzip,6,cutadapt,"cutadapt --version",11,354723407,42748,453648384
+gzip:6,gzip,6,cutadapt,"cutadapt --version",12,352611283,42752,453648384
+gzip:6,gzip,6,cutadapt,"cutadapt --version",13,355006754,43936,453648384
+gzip:6,gzip,6,cutadapt,"cutadapt --version",14,349916082,42980,453648384
+gzip:6,gzip,6,cutadapt,"cutadapt --version",15,356863051,43380,453648384
+gzip:6,gzip,6,cutadapt,"cutadapt --version",16,373758610,42140,453648384
+gzip:6,gzip,6,cutadapt,"cutadapt --version",17,385010108,43288,453648384
+gzip:6,gzip,6,cutadapt,"cutadapt --version",18,376486632,43568,453648384
+gzip:6,gzip,6,cutadapt,"cutadapt --version",19,378982317,43384,453648384
+gzip:6,gzip,6,cutadapt,"cutadapt --version",20,364613305,45052,453648384
+gzip:6,gzip,6,cutadapt,"cutadapt --version",21,365012493,44568,453648384
+gzip:6,gzip,6,cutadapt,"cutadapt --version",22,373420007,42936,453648384
+gzip:6,gzip,6,cutadapt,"cutadapt --version",23,367526042,42940,453648384
+gzip:6,gzip,6,cutadapt,"cutadapt --version",24,376053606,43548,453648384
+gzip:6,gzip,6,cutadapt,"cutadapt --version",25,366163841,40832,453648384
+gzip:6,gzip,6,cutadapt,"cutadapt --version",26,367163586,40216,453648384
+gzip:6,gzip,6,cutadapt,"cutadapt --version",27,358030818,42816,453648384
+gzip:6,gzip,6,cutadapt,"cutadapt --version",28,359583746,42788,453648384
+gzip:6,gzip,6,cutadapt,"cutadapt --version",29,361279493,45032,453648384
+gzip:6,gzip,6,snakemake,"snakemake --version",0,1662606876,78764,453648384
+gzip:6,gzip,6,snakemake,"snakemake --version",1,1621776392,78604,453648384
+gzip:6,gzip,6,snakemake,"snakemake --version",2,1602929599,78488,453648384
+gzip:6,gzip,6,snakemake,"snakemake --version",3,1568488823,79348,453648384
+gzip:6,gzip,6,snakemake,"snakemake --version",4,1654684248,79024,453648384
+gzip:6,gzip,6,snakemake,"snakemake --version",5,1602712170,78944,453648384
+gzip:6,gzip,6,snakemake,"snakemake --version",6,1605118491,78680,453648384
+gzip:6,gzip,6,snakemake,"snakemake --version",7,1581297497,79188,453648384
+gzip:6,gzip,6,snakemake,"snakemake --version",8,1612555272,79292,453648384
+gzip:6,gzip,6,snakemake,"snakemake --version",9,1591641444,78500,453648384
+gzip:6,gzip,6,snakemake,"snakemake --version",10,1635268486,78692,453648384
+gzip:6,gzip,6,snakemake,"snakemake --version",11,1602902595,78428,453648384
+gzip:6,gzip,6,snakemake,"snakemake --version",12,1559800395,78740,453648384
+gzip:6,gzip,6,snakemake,"snakemake --version",13,1557544607,78796,453648384
+gzip:6,gzip,6,snakemake,"snakemake --version",14,1572276658,79004,453648384
+gzip:6,gzip,6,snakemake,"snakemake --version",15,1545826460,79128,453648384
+gzip:6,gzip,6,snakemake,"snakemake --version",16,1542311716,78856,453648384
+gzip:6,gzip,6,snakemake,"snakemake --version",17,1547828750,78972,453648384
+gzip:6,gzip,6,snakemake,"snakemake --version",18,1549776125,78848,453648384
+gzip:6,gzip,6,snakemake,"snakemake --version",19,1578776469,78628,453648384
+gzip:6,gzip,6,snakemake,"snakemake --version",20,1571919425,78636,453648384
+gzip:6,gzip,6,snakemake,"snakemake --version",21,1549752214,79232,453648384
+gzip:6,gzip,6,snakemake,"snakemake --version",22,1552349477,79064,453648384
+gzip:6,gzip,6,snakemake,"snakemake --version",23,1561245437,78960,453648384
+gzip:6,gzip,6,snakemake,"snakemake --version",24,1564015233,79200,453648384
+gzip:6,gzip,6,snakemake,"snakemake --version",25,1549787401,79104,453648384
+gzip:6,gzip,6,snakemake,"snakemake --version",26,1540159188,78632,453648384
+gzip:6,gzip,6,snakemake,"snakemake --version",27,1551535306,79192,453648384
+gzip:6,gzip,6,snakemake,"snakemake --version",28,1538876886,78948,453648384
+gzip:6,gzip,6,snakemake,"snakemake --version",29,1550854362,79608,453648384
+gzip:6,gzip,6,baseline,"true",0,137470667,42572,453648384
+gzip:6,gzip,6,baseline,"true",1,136493243,40508,453648384
+gzip:6,gzip,6,baseline,"true",2,136864357,42616,453648384
+gzip:6,gzip,6,baseline,"true",3,135519345,42932,453648384
+gzip:6,gzip,6,baseline,"true",4,134125392,45416,453648384
+gzip:6,gzip,6,baseline,"true",5,135492633,42940,453648384
+gzip:6,gzip,6,baseline,"true",6,136666709,45256,453648384
+gzip:6,gzip,6,baseline,"true",7,134314338,42376,453648384
+gzip:6,gzip,6,baseline,"true",8,133568721,42824,453648384
+gzip:6,gzip,6,baseline,"true",9,134361535,41956,453648384
+gzip:6,gzip,6,baseline,"true",10,134489916,44900,453648384
+gzip:6,gzip,6,baseline,"true",11,134839615,45168,453648384
+gzip:6,gzip,6,baseline,"true",12,135606808,43028,453648384
+gzip:6,gzip,6,baseline,"true",13,134412576,42564,453648384
+gzip:6,gzip,6,baseline,"true",14,136014082,43384,453648384
+gzip:6,gzip,6,baseline,"true",15,135540087,45456,453648384
+gzip:6,gzip,6,baseline,"true",16,135734663,42556,453648384
+gzip:6,gzip,6,baseline,"true",17,137161111,44776,453648384
+gzip:6,gzip,6,baseline,"true",18,133341683,43000,453648384
+gzip:6,gzip,6,baseline,"true",19,134360724,44088,453648384
+gzip:6,gzip,6,baseline,"true",20,135061420,43512,453648384
+gzip:6,gzip,6,baseline,"true",21,134890399,44660,453648384
+gzip:6,gzip,6,baseline,"true",22,134257773,42732,453648384
+gzip:6,gzip,6,baseline,"true",23,133268717,42632,453648384
+gzip:6,gzip,6,baseline,"true",24,134826887,42832,453648384
+gzip:6,gzip,6,baseline,"true",25,135113483,43140,453648384
+gzip:6,gzip,6,baseline,"true",26,137372573,42560,453648384
+gzip:6,gzip,6,baseline,"true",27,135385162,43104,453648384
+gzip:6,gzip,6,baseline,"true",28,135868919,42068,453648384
+gzip:6,gzip,6,baseline,"true",29,134637737,42612,453648384
+gzip:6,gzip,6,java,"java -version",0,315581991,46100,453648384
+gzip:6,gzip,6,java,"java -version",1,320258997,48568,453648384
+gzip:6,gzip,6,java,"java -version",2,323094760,46308,453648384
+gzip:6,gzip,6,java,"java -version",3,315245938,46540,453648384
+gzip:6,gzip,6,java,"java -version",4,319701432,46348,453648384
+gzip:6,gzip,6,java,"java -version",5,314411839,46404,453648384
+gzip:6,gzip,6,java,"java -version",6,314097224,46488,453648384
+gzip:6,gzip,6,java,"java -version",7,320154898,46404,453648384
+gzip:6,gzip,6,java,"java -version",8,314958979,46600,453648384
+gzip:6,gzip,6,java,"java -version",9,313769832,46604,453648384
+gzip:6,gzip,6,java,"java -version",10,317677876,46364,453648384
+gzip:6,gzip,6,java,"java -version",11,317766063,46496,453648384
+gzip:6,gzip,6,java,"java -version",12,318501062,46484,453648384
+gzip:6,gzip,6,java,"java -version",13,320681920,46524,453648384
+gzip:6,gzip,6,java,"java -version",14,319666218,46360,453648384
+gzip:6,gzip,6,java,"java -version",15,313256313,46196,453648384
+gzip:6,gzip,6,java,"java -version",16,315871869,46376,453648384
+gzip:6,gzip,6,java,"java -version",17,316457422,46028,453648384
+gzip:6,gzip,6,java,"java -version",18,316376343,48612,453648384
+gzip:6,gzip,6,java,"java -version",19,315844575,45940,453648384
+gzip:6,gzip,6,java,"java -version",20,315377962,46740,453648384
+gzip:6,gzip,6,java,"java -version",21,321962711,46440,453648384
+gzip:6,gzip,6,java,"java -version",22,317352401,46728,453648384
+gzip:6,gzip,6,java,"java -version",23,313605234,46312,453648384
+gzip:6,gzip,6,java,"java -version",24,314695433,46396,453648384
+gzip:6,gzip,6,java,"java -version",25,314189037,46804,453648384
+gzip:6,gzip,6,java,"java -version",26,318045429,46288,453648384
+gzip:6,gzip,6,java,"java -version",27,316846901,46488,453648384
+gzip:6,gzip,6,java,"java -version",28,316963048,46376,453648384
+gzip:6,gzip,6,java,"java -version",29,312353211,45976,453648384
+gzip:9,gzip,9,samtools,"samtools --version",0,206128551,44336,451207168
+gzip:9,gzip,9,samtools,"samtools --version",1,209641554,44580,451207168
+gzip:9,gzip,9,samtools,"samtools --version",2,206652774,43844,451207168
+gzip:9,gzip,9,samtools,"samtools --version",3,205298288,45032,451207168
+gzip:9,gzip,9,samtools,"samtools --version",4,205516622,45940,451207168
+gzip:9,gzip,9,samtools,"samtools --version",5,209283561,45492,451207168
+gzip:9,gzip,9,samtools,"samtools --version",6,206120487,43644,451207168
+gzip:9,gzip,9,samtools,"samtools --version",7,205590906,40604,451207168
+gzip:9,gzip,9,samtools,"samtools --version",8,206699234,45356,451207168
+gzip:9,gzip,9,samtools,"samtools --version",9,206797691,42480,451207168
+gzip:9,gzip,9,samtools,"samtools --version",10,205279819,42660,451207168
+gzip:9,gzip,9,samtools,"samtools --version",11,204019917,42312,451207168
+gzip:9,gzip,9,samtools,"samtools --version",12,208010786,42548,451207168
+gzip:9,gzip,9,samtools,"samtools --version",13,207164107,42132,451207168
+gzip:9,gzip,9,samtools,"samtools --version",14,205450666,44784,451207168
+gzip:9,gzip,9,samtools,"samtools --version",15,206852721,41128,451207168
+gzip:9,gzip,9,samtools,"samtools --version",16,207551717,44384,451207168
+gzip:9,gzip,9,samtools,"samtools --version",17,205417397,45112,451207168
+gzip:9,gzip,9,samtools,"samtools --version",18,206075612,43640,451207168
+gzip:9,gzip,9,samtools,"samtools --version",19,206307693,40256,451207168
+gzip:9,gzip,9,samtools,"samtools --version",20,204982622,42408,451207168
+gzip:9,gzip,9,samtools,"samtools --version",21,206270808,42228,451207168
+gzip:9,gzip,9,samtools,"samtools --version",22,205928418,43044,451207168
+gzip:9,gzip,9,samtools,"samtools --version",23,207263664,42892,451207168
+gzip:9,gzip,9,samtools,"samtools --version",24,206570950,42872,451207168
+gzip:9,gzip,9,samtools,"samtools --version",25,207030725,42548,451207168
+gzip:9,gzip,9,samtools,"samtools --version",26,210802171,43076,451207168
+gzip:9,gzip,9,samtools,"samtools --version",27,204929814,42916,451207168
+gzip:9,gzip,9,samtools,"samtools --version",28,204290444,42604,451207168
+gzip:9,gzip,9,samtools,"samtools --version",29,210368178,44556,451207168
+gzip:9,gzip,9,python-import,"python3 -c 'import numpy, pandas, sklearn'",0,2423480447,138900,451207168
+gzip:9,gzip,9,python-import,"python3 -c 'import numpy, pandas, sklearn'",1,2403507699,140616,451207168
+gzip:9,gzip,9,python-import,"python3 -c 'import numpy, pandas, sklearn'",2,2376491817,140408,451207168
+gzip:9,gzip,9,python-import,"python3 -c 'import numpy, pandas, sklearn'",3,2412771126,140300,451207168
+gzip:9,gzip,9,python-import,"python3 -c 'import numpy, pandas, sklearn'",4,2419238649,141684,451207168
+gzip:9,gzip,9,python-import,"python3 -c 'import numpy, pandas, sklearn'",5,2391817792,139264,451207168
+gzip:9,gzip,9,python-import,"python3 -c 'import numpy, pandas, sklearn'",6,2386525837,140972,451207168
+gzip:9,gzip,9,python-import,"python3 -c 'import numpy, pandas, sklearn'",7,2405965187,138900,451207168
+gzip:9,gzip,9,python-import,"python3 -c 'import numpy, pandas, sklearn'",8,2380063160,138532,451207168
+gzip:9,gzip,9,python-import,"python3 -c 'import numpy, pandas, sklearn'",9,2386520927,139020,451207168
+gzip:9,gzip,9,python-import,"python3 -c 'import numpy, pandas, sklearn'",10,2431657176,139592,451207168
+gzip:9,gzip,9,python-import,"python3 -c 'import numpy, pandas, sklearn'",11,2420591639,139280,451207168
+gzip:9,gzip,9,python-import,"python3 -c 'import numpy, pandas, sklearn'",12,2388556469,138956,451207168
+gzip:9,gzip,9,python-import,"python3 -c 'import numpy, pandas, sklearn'",13,2375204259,138940,451207168
+gzip:9,gzip,9,python-import,"python3 -c 'import numpy, pandas, sklearn'",14,2397009619,138508,451207168
+gzip:9,gzip,9,python-import,"python3 -c 'import numpy, pandas, sklearn'",15,2410023159,139444,451207168
+gzip:9,gzip,9,python-import,"python3 -c 'import numpy, pandas, sklearn'",16,2387750325,141024,451207168
+gzip:9,gzip,9,python-import,"python3 -c 'import numpy, pandas, sklearn'",17,2381407265,139448,451207168
+gzip:9,gzip,9,python-import,"python3 -c 'import numpy, pandas, sklearn'",18,2371620283,139212,451207168
+gzip:9,gzip,9,python-import,"python3 -c 'import numpy, pandas, sklearn'",19,2402356915,140784,451207168
+gzip:9,gzip,9,python-import,"python3 -c 'import numpy, pandas, sklearn'",20,2381523106,140840,451207168
+gzip:9,gzip,9,python-import,"python3 -c 'import numpy, pandas, sklearn'",21,2390216064,140588,451207168
+gzip:9,gzip,9,python-import,"python3 -c 'import numpy, pandas, sklearn'",22,2382935525,140408,451207168
+gzip:9,gzip,9,python-import,"python3 -c 'import numpy, pandas, sklearn'",23,2383711915,138892,451207168
+gzip:9,gzip,9,python-import,"python3 -c 'import numpy, pandas, sklearn'",24,2403403792,138908,451207168
+gzip:9,gzip,9,python-import,"python3 -c 'import numpy, pandas, sklearn'",25,2394653045,138060,451207168
+gzip:9,gzip,9,python-import,"python3 -c 'import numpy, pandas, sklearn'",26,2395878089,139224,451207168
+gzip:9,gzip,9,python-import,"python3 -c 'import numpy, pandas, sklearn'",27,2395334399,139388,451207168
+gzip:9,gzip,9,python-import,"python3 -c 'import numpy, pandas, sklearn'",28,2396893334,140740,451207168
+gzip:9,gzip,9,python-import,"python3 -c 'import numpy, pandas, sklearn'",29,2372472109,140708,451207168
+gzip:9,gzip,9,cutadapt,"cutadapt --version",0,360602960,43432,451207168
+gzip:9,gzip,9,cutadapt,"cutadapt --version",1,366553478,42552,451207168
+gzip:9,gzip,9,cutadapt,"cutadapt --version",2,371961085,42680,451207168
+gzip:9,gzip,9,cutadapt,"cutadapt --version",3,364309312,42784,451207168
+gzip:9,gzip,9,cutadapt,"cutadapt --version",4,362521362,42280,451207168
+gzip:9,gzip,9,cutadapt,"cutadapt --version",5,365539861,43008,451207168
+gzip:9,gzip,9,cutadapt,"cutadapt --version",6,361468063,43056,451207168
+gzip:9,gzip,9,cutadapt,"cutadapt --version",7,363057420,42732,451207168
+gzip:9,gzip,9,cutadapt,"cutadapt --version",8,364575366,43096,451207168
+gzip:9,gzip,9,cutadapt,"cutadapt --version",9,361114566,42700,451207168
+gzip:9,gzip,9,cutadapt,"cutadapt --version",10,364951175,42372,451207168
+gzip:9,gzip,9,cutadapt,"cutadapt --version",11,360102556,42540,451207168
+gzip:9,gzip,9,cutadapt,"cutadapt --version",12,369384674,45048,451207168
+gzip:9,gzip,9,cutadapt,"cutadapt --version",13,365535768,42888,451207168
+gzip:9,gzip,9,cutadapt,"cutadapt --version",14,367182172,43136,451207168
+gzip:9,gzip,9,cutadapt,"cutadapt --version",15,365465797,44500,451207168
+gzip:9,gzip,9,cutadapt,"cutadapt --version",16,371489280,43140,451207168
+gzip:9,gzip,9,cutadapt,"cutadapt --version",17,363421652,42960,451207168
+gzip:9,gzip,9,cutadapt,"cutadapt --version",18,363304095,44328,451207168
+gzip:9,gzip,9,cutadapt,"cutadapt --version",19,363720282,44860,451207168
+gzip:9,gzip,9,cutadapt,"cutadapt --version",20,363053551,40720,451207168
+gzip:9,gzip,9,cutadapt,"cutadapt --version",21,364003106,42508,451207168
+gzip:9,gzip,9,cutadapt,"cutadapt --version",22,361094632,40984,451207168
+gzip:9,gzip,9,cutadapt,"cutadapt --version",23,364729513,43344,451207168
+gzip:9,gzip,9,cutadapt,"cutadapt --version",24,364052687,44852,451207168
+gzip:9,gzip,9,cutadapt,"cutadapt --version",25,362806082,43120,451207168
+gzip:9,gzip,9,cutadapt,"cutadapt --version",26,362809900,42812,451207168
+gzip:9,gzip,9,cutadapt,"cutadapt --version",27,361733710,40340,451207168
+gzip:9,gzip,9,cutadapt,"cutadapt --version",28,365333843,45080,451207168
+gzip:9,gzip,9,cutadapt,"cutadapt --version",29,362003674,41856,451207168
+gzip:9,gzip,9,snakemake,"snakemake --version",0,1572061211,78420,451207168
+gzip:9,gzip,9,snakemake,"snakemake --version",1,1547105525,79148,451207168
+gzip:9,gzip,9,snakemake,"snakemake --version",2,1552791758,79244,451207168
+gzip:9,gzip,9,snakemake,"snakemake --version",3,1585793763,79180,451207168
+gzip:9,gzip,9,snakemake,"snakemake --version",4,1554597922,79352,451207168
+gzip:9,gzip,9,snakemake,"snakemake --version",5,1551821950,79084,451207168
+gzip:9,gzip,9,snakemake,"snakemake --version",6,1560408720,79168,451207168
+gzip:9,gzip,9,snakemake,"snakemake --version",7,1555583463,79256,451207168
+gzip:9,gzip,9,snakemake,"snakemake --version",8,1556161277,79104,451207168
+gzip:9,gzip,9,snakemake,"snakemake --version",9,1557424512,79288,451207168
+gzip:9,gzip,9,snakemake,"snakemake --version",10,1567895738,79100,451207168
+gzip:9,gzip,9,snakemake,"snakemake --version",11,1549419290,79176,451207168
+gzip:9,gzip,9,snakemake,"snakemake --version",12,1565002997,79244,451207168
+gzip:9,gzip,9,snakemake,"snakemake --version",13,1552261382,79104,451207168
+gzip:9,gzip,9,snakemake,"snakemake --version",14,1547100090,79292,451207168
+gzip:9,gzip,9,snakemake,"snakemake --version",15,1563672585,79316,451207168
+gzip:9,gzip,9,snakemake,"snakemake --version",16,1567177607,79292,451207168
+gzip:9,gzip,9,snakemake,"snakemake --version",17,1570390262,79004,451207168
+gzip:9,gzip,9,snakemake,"snakemake --version",18,1555422919,79212,451207168
+gzip:9,gzip,9,snakemake,"snakemake --version",19,1553604645,78884,451207168
+gzip:9,gzip,9,snakemake,"snakemake --version",20,1577590908,78880,451207168
+gzip:9,gzip,9,snakemake,"snakemake --version",21,1650354687,79040,451207168
+gzip:9,gzip,9,snakemake,"snakemake --version",22,1550616850,79428,451207168
+gzip:9,gzip,9,snakemake,"snakemake --version",23,1543370985,78940,451207168
+gzip:9,gzip,9,snakemake,"snakemake --version",24,1561366960,78692,451207168
+gzip:9,gzip,9,snakemake,"snakemake --version",25,1581282387,78976,451207168
+gzip:9,gzip,9,snakemake,"snakemake --version",26,1555495453,79164,451207168
+gzip:9,gzip,9,snakemake,"snakemake --version",27,1571245156,78708,451207168
+gzip:9,gzip,9,snakemake,"snakemake --version",28,1609702726,78928,451207168
+gzip:9,gzip,9,snakemake,"snakemake --version",29,1616859297,79136,451207168
+gzip:9,gzip,9,baseline,"true",0,135671342,43592,451207168
+gzip:9,gzip,9,baseline,"true",1,137428948,44500,451207168
+gzip:9,gzip,9,baseline,"true",2,136574689,42620,451207168
+gzip:9,gzip,9,baseline,"true",3,136347685,44900,451207168
+gzip:9,gzip,9,baseline,"true",4,137791401,42484,451207168
+gzip:9,gzip,9,baseline,"true",5,136496598,45240,451207168
+gzip:9,gzip,9,baseline,"true",6,137573389,42584,451207168
+gzip:9,gzip,9,baseline,"true",7,137007640,42832,451207168
+gzip:9,gzip,9,baseline,"true",8,136918585,42948,451207168
+gzip:9,gzip,9,baseline,"true",9,136882070,42800,451207168
+gzip:9,gzip,9,baseline,"true",10,136650586,43208,451207168
+gzip:9,gzip,9,baseline,"true",11,139010458,40536,451207168
+gzip:9,gzip,9,baseline,"true",12,139414268,45864,451207168
+gzip:9,gzip,9,baseline,"true",13,136774420,42868,451207168
+gzip:9,gzip,9,baseline,"true",14,137413729,45628,451207168
+gzip:9,gzip,9,baseline,"true",15,135494471,42816,451207168
+gzip:9,gzip,9,baseline,"true",16,139176517,41020,451207168
+gzip:9,gzip,9,baseline,"true",17,136843341,42488,451207168
+gzip:9,gzip,9,baseline,"true",18,138609898,42536,451207168
+gzip:9,gzip,9,baseline,"true",19,138303954,42752,451207168
+gzip:9,gzip,9,baseline,"true",20,136253970,42372,451207168
+gzip:9,gzip,9,baseline,"true",21,136154678,43092,451207168
+gzip:9,gzip,9,baseline,"true",22,137166817,42944,451207168
+gzip:9,gzip,9,baseline,"true",23,136916167,42688,451207168
+gzip:9,gzip,9,baseline,"true",24,139325645,43304,451207168
+gzip:9,gzip,9,baseline,"true",25,137043670,43096,451207168
+gzip:9,gzip,9,baseline,"true",26,136745349,45036,451207168
+gzip:9,gzip,9,baseline,"true",27,142572709,43144,451207168
+gzip:9,gzip,9,baseline,"true",28,136995064,43188,451207168
+gzip:9,gzip,9,baseline,"true",29,136908085,44768,451207168
+gzip:9,gzip,9,java,"java -version",0,324659039,45928,451207168
+gzip:9,gzip,9,java,"java -version",1,323485805,46016,451207168
+gzip:9,gzip,9,java,"java -version",2,332490694,46448,451207168
+gzip:9,gzip,9,java,"java -version",3,324701054,47988,451207168
+gzip:9,gzip,9,java,"java -version",4,327985909,46716,451207168
+gzip:9,gzip,9,java,"java -version",5,327327089,46364,451207168
+gzip:9,gzip,9,java,"java -version",6,325642348,46740,451207168
+gzip:9,gzip,9,java,"java -version",7,324168658,46588,451207168
+gzip:9,gzip,9,java,"java -version",8,332609333,46420,451207168
+gzip:9,gzip,9,java,"java -version",9,328954523,46072,451207168
+gzip:9,gzip,9,java,"java -version",10,328009912,46592,451207168
+gzip:9,gzip,9,java,"java -version",11,331590871,46248,451207168
+gzip:9,gzip,9,java,"java -version",12,332762816,45884,451207168
+gzip:9,gzip,9,java,"java -version",13,332902427,46416,451207168
+gzip:9,gzip,9,java,"java -version",14,365137366,48468,451207168
+gzip:9,gzip,9,java,"java -version",15,332374591,46528,451207168
+gzip:9,gzip,9,java,"java -version",16,331734095,46100,451207168
+gzip:9,gzip,9,java,"java -version",17,337124629,46208,451207168
+gzip:9,gzip,9,java,"java -version",18,338163735,46240,451207168
+gzip:9,gzip,9,java,"java -version",19,329698665,45992,451207168
+gzip:9,gzip,9,java,"java -version",20,325958048,46684,451207168
+gzip:9,gzip,9,java,"java -version",21,323877936,46576,451207168
+gzip:9,gzip,9,java,"java -version",22,332494750,46532,451207168
+gzip:9,gzip,9,java,"java -version",23,341924806,46484,451207168
+gzip:9,gzip,9,java,"java -version",24,333578708,46628,451207168
+gzip:9,gzip,9,java,"java -version",25,350812851,46284,451207168
+gzip:9,gzip,9,java,"java -version",26,343426793,46292,451207168
+gzip:9,gzip,9,java,"java -version",27,326959207,46576,451207168
+gzip:9,gzip,9,java,"java -version",28,324402304,48516,451207168
+gzip:9,gzip,9,java,"java -version",29,328387601,46664,451207168
+zstd:1,zstd,1,samtools,"samtools --version",0,173689734,44820,485617664
+zstd:1,zstd,1,samtools,"samtools --version",1,170093115,43504,485617664
+zstd:1,zstd,1,samtools,"samtools --version",2,168299620,42116,485617664
+zstd:1,zstd,1,samtools,"samtools --version",3,169153213,44988,485617664
+zstd:1,zstd,1,samtools,"samtools --version",4,167075434,42072,485617664
+zstd:1,zstd,1,samtools,"samtools --version",5,168662414,44020,485617664
+zstd:1,zstd,1,samtools,"samtools --version",6,169025069,42924,485617664
+zstd:1,zstd,1,samtools,"samtools --version",7,167105559,45108,485617664
+zstd:1,zstd,1,samtools,"samtools --version",8,167643690,43412,485617664
+zstd:1,zstd,1,samtools,"samtools --version",9,168791050,43084,485617664
+zstd:1,zstd,1,samtools,"samtools --version",10,168668161,44824,485617664
+zstd:1,zstd,1,samtools,"samtools --version",11,175009955,42468,485617664
+zstd:1,zstd,1,samtools,"samtools --version",12,169995213,43968,485617664
+zstd:1,zstd,1,samtools,"samtools --version",13,167786888,42768,485617664
+zstd:1,zstd,1,samtools,"samtools --version",14,168798559,42880,485617664
+zstd:1,zstd,1,samtools,"samtools --version",15,167179301,40812,485617664
+zstd:1,zstd,1,samtools,"samtools --version",16,169068895,42840,485617664
+zstd:1,zstd,1,samtools,"samtools --version",17,168053119,42608,485617664
+zstd:1,zstd,1,samtools,"samtools --version",18,168615924,43100,485617664
+zstd:1,zstd,1,samtools,"samtools --version",19,168648740,42520,485617664
+zstd:1,zstd,1,samtools,"samtools --version",20,168411838,42724,485617664
+zstd:1,zstd,1,samtools,"samtools --version",21,168712088,42728,485617664
+zstd:1,zstd,1,samtools,"samtools --version",22,171191632,42676,485617664
+zstd:1,zstd,1,samtools,"samtools --version",23,170503994,42352,485617664
+zstd:1,zstd,1,samtools,"samtools --version",24,170603247,44808,485617664
+zstd:1,zstd,1,samtools,"samtools --version",25,169389064,42372,485617664
+zstd:1,zstd,1,samtools,"samtools --version",26,171999271,42844,485617664
+zstd:1,zstd,1,samtools,"samtools --version",27,166564894,42932,485617664
+zstd:1,zstd,1,samtools,"samtools --version",28,168321154,42316,485617664
+zstd:1,zstd,1,samtools,"samtools --version",29,169457496,44888,485617664
+zstd:1,zstd,1,python-import,"python3 -c 'import numpy, pandas, sklearn'",0,2176127228,141128,485617664
+zstd:1,zstd,1,python-import,"python3 -c 'import numpy, pandas, sklearn'",1,2152926008,139356,485617664
+zstd:1,zstd,1,python-import,"python3 -c 'import numpy, pandas, sklearn'",2,2155476577,140480,485617664
+zstd:1,zstd,1,python-import,"python3 -c 'import numpy, pandas, sklearn'",3,2165606816,139096,485617664
+zstd:1,zstd,1,python-import,"python3 -c 'import numpy, pandas, sklearn'",4,2159416562,139180,485617664
+zstd:1,zstd,1,python-import,"python3 -c 'import numpy, pandas, sklearn'",5,2167058279,138492,485617664
+zstd:1,zstd,1,python-import,"python3 -c 'import numpy, pandas, sklearn'",6,2154152662,138652,485617664
+zstd:1,zstd,1,python-import,"python3 -c 'import numpy, pandas, sklearn'",7,2143401732,139544,485617664
+zstd:1,zstd,1,python-import,"python3 -c 'import numpy, pandas, sklearn'",8,2147922210,139060,485617664
+zstd:1,zstd,1,python-import,"python3 -c 'import numpy, pandas, sklearn'",9,2170932454,139536,485617664
+zstd:1,zstd,1,python-import,"python3 -c 'import numpy, pandas, sklearn'",10,2168984183,138692,485617664
+zstd:1,zstd,1,python-import,"python3 -c 'import numpy, pandas, sklearn'",11,2224213994,138940,485617664
+zstd:1,zstd,1,python-import,"python3 -c 'import numpy, pandas, sklearn'",12,2152919182,138792,485617664
+zstd:1,zstd,1,python-import,"python3 -c 'import numpy, pandas, sklearn'",13,2156434490,140612,485617664
+zstd:1,zstd,1,python-import,"python3 -c 'import numpy, pandas, sklearn'",14,2127763211,139740,485617664
+zstd:1,zstd,1,python-import,"python3 -c 'import numpy, pandas, sklearn'",15,2144294094,138600,485617664
+zstd:1,zstd,1,python-import,"python3 -c 'import numpy, pandas, sklearn'",16,2143514197,139340,485617664
+zstd:1,zstd,1,python-import,"python3 -c 'import numpy, pandas, sklearn'",17,2154399312,139112,485617664
+zstd:1,zstd,1,python-import,"python3 -c 'import numpy, pandas, sklearn'",18,2149240070,139016,485617664
+zstd:1,zstd,1,python-import,"python3 -c 'import numpy, pandas, sklearn'",19,2149304915,140420,485617664
+zstd:1,zstd,1,python-import,"python3 -c 'import numpy, pandas, sklearn'",20,2116598152,139100,485617664
+zstd:1,zstd,1,python-import,"python3 -c 'import numpy, pandas, sklearn'",21,2127064443,139484,485617664
+zstd:1,zstd,1,python-import,"python3 -c 'import numpy, pandas, sklearn'",22,2136822242,139300,485617664
+zstd:1,zstd,1,python-import,"python3 -c 'import numpy, pandas, sklearn'",23,2134141403,138708,485617664
+zstd:1,zstd,1,python-import,"python3 -c 'import numpy, pandas, sklearn'",24,2132384397,138932,485617664
+zstd:1,zstd,1,python-import,"python3 -c 'import numpy, pandas, sklearn'",25,2123841872,139268,485617664
+zstd:1,zstd,1,python-import,"python3 -c 'import numpy, pandas, sklearn'",26,2142821310,139356,485617664
+zstd:1,zstd,1,python-import,"python3 -c 'import numpy, pandas, sklearn'",27,2138807030,141480,485617664
+zstd:1,zstd,1,python-import,"python3 -c 'import numpy, pandas, sklearn'",28,2123776972,138984,485617664
+zstd:1,zstd,1,python-import,"python3 -c 'import numpy, pandas, sklearn'",29,2126096271,141068,485617664
+zstd:1,zstd,1,cutadapt,"cutadapt --version",0,313092714,42728,485617664
+zstd:1,zstd,1,cutadapt,"cutadapt --version",1,311465425,45068,485617664
+zstd:1,zstd,1,cutadapt,"cutadapt --version",2,312005268,42784,485617664
+zstd:1,zstd,1,cutadapt,"cutadapt --version",3,311826606,45288,485617664
+zstd:1,zstd,1,cutadapt,"cutadapt --version",4,313445703,44128,485617664
+zstd:1,zstd,1,cutadapt,"cutadapt --version",5,320387343,44808,485617664
+zstd:1,zstd,1,cutadapt,"cutadapt --version",6,308454282,42984,485617664
+zstd:1,zstd,1,cutadapt,"cutadapt --version",7,308398546,43552,485617664
+zstd:1,zstd,1,cutadapt,"cutadapt --version",8,325837228,43528,485617664
+zstd:1,zstd,1,cutadapt,"cutadapt --version",9,308525199,43312,485617664
+zstd:1,zstd,1,cutadapt,"cutadapt --version",10,308411573,45044,485617664
+zstd:1,zstd,1,cutadapt,"cutadapt --version",11,311521692,45228,485617664
+zstd:1,zstd,1,cutadapt,"cutadapt --version",12,311080896,42580,485617664
+zstd:1,zstd,1,cutadapt,"cutadapt --version",13,312060122,45344,485617664
+zstd:1,zstd,1,cutadapt,"cutadapt --version",14,309177480,44056,485617664
+zstd:1,zstd,1,cutadapt,"cutadapt --version",15,309833847,44180,485617664
+zstd:1,zstd,1,cutadapt,"cutadapt --version",16,311258545,43348,485617664
+zstd:1,zstd,1,cutadapt,"cutadapt --version",17,320512969,42740,485617664
+zstd:1,zstd,1,cutadapt,"cutadapt --version",18,311853666,42572,485617664
+zstd:1,zstd,1,cutadapt,"cutadapt --version",19,309491705,43372,485617664
+zstd:1,zstd,1,cutadapt,"cutadapt --version",20,310095793,45308,485617664
+zstd:1,zstd,1,cutadapt,"cutadapt --version",21,310361614,42748,485617664
+zstd:1,zstd,1,cutadapt,"cutadapt --version",22,308564618,43136,485617664
+zstd:1,zstd,1,cutadapt,"cutadapt --version",23,309507762,45392,485617664
+zstd:1,zstd,1,cutadapt,"cutadapt --version",24,310020436,42784,485617664
+zstd:1,zstd,1,cutadapt,"cutadapt --version",25,309886572,44588,485617664
+zstd:1,zstd,1,cutadapt,"cutadapt --version",26,308494318,45508,485617664
+zstd:1,zstd,1,cutadapt,"cutadapt --version",27,308369448,44656,485617664
+zstd:1,zstd,1,cutadapt,"cutadapt --version",28,312827470,42812,485617664
+zstd:1,zstd,1,cutadapt,"cutadapt --version",29,311008451,44696,485617664
+zstd:1,zstd,1,snakemake,"snakemake --version",0,1409503090,78936,485617664
+zstd:1,zstd,1,snakemake,"snakemake --version",1,1411112817,79052,485617664
+zstd:1,zstd,1,snakemake,"snakemake --version",2,1405435196,79368,485617664
+zstd:1,zstd,1,snakemake,"snakemake --version",3,1402662402,78888,485617664
+zstd:1,zstd,1,snakemake,"snakemake --version",4,1407249906,78728,485617664
+zstd:1,zstd,1,snakemake,"snakemake --version",5,1403178721,79108,485617664
+zstd:1,zstd,1,snakemake,"snakemake --version",6,1399683735,78888,485617664
+zstd:1,zstd,1,snakemake,"snakemake --version",7,1400995741,79280,485617664
+zstd:1,zstd,1,snakemake,"snakemake --version",8,1419574682,79452,485617664
+zstd:1,zstd,1,snakemake,"snakemake --version",9,1407098800,79312,485617664
+zstd:1,zstd,1,snakemake,"snakemake --version",10,1418894426,79252,485617664
+zstd:1,zstd,1,snakemake,"snakemake --version",11,1420794034,78996,485617664
+zstd:1,zstd,1,snakemake,"snakemake --version",12,1421728886,79464,485617664
+zstd:1,zstd,1,snakemake,"snakemake --version",13,1425128242,79100,485617664
+zstd:1,zstd,1,snakemake,"snakemake --version",14,1402701451,78916,485617664
+zstd:1,zstd,1,snakemake,"snakemake --version",15,1423545297,79364,485617664
+zstd:1,zstd,1,snakemake,"snakemake --version",16,1411338963,78768,485617664
+zstd:1,zstd,1,snakemake,"snakemake --version",17,1411307468,78768,485617664
+zstd:1,zstd,1,snakemake,"snakemake --version",18,1433134283,79096,485617664
+zstd:1,zstd,1,snakemake,"snakemake --version",19,1408347464,78948,485617664
+zstd:1,zstd,1,snakemake,"snakemake --version",20,1433670604,79060,485617664
+zstd:1,zstd,1,snakemake,"snakemake --version",21,1434086659,79108,485617664
+zstd:1,zstd,1,snakemake,"snakemake --version",22,1453619587,79124,485617664
+zstd:1,zstd,1,snakemake,"snakemake --version",23,1434728019,79024,485617664
+zstd:1,zstd,1,snakemake,"snakemake --version",24,1527445553,79112,485617664
+zstd:1,zstd,1,snakemake,"snakemake --version",25,1474654214,79164,485617664
+zstd:1,zstd,1,snakemake,"snakemake --version",26,1546480784,78756,485617664
+zstd:1,zstd,1,snakemake,"snakemake --version",27,1516753313,79188,485617664
+zstd:1,zstd,1,snakemake,"snakemake --version",28,1503027029,79096,485617664
+zstd:1,zstd,1,snakemake,"snakemake --version",29,1455868715,79268,485617664
+zstd:1,zstd,1,baseline,"true",0,126299627,44572,485617664
+zstd:1,zstd,1,baseline,"true",1,125151568,43200,485617664
+zstd:1,zstd,1,baseline,"true",2,123529623,41084,485617664
+zstd:1,zstd,1,baseline,"true",3,125383697,45428,485617664
+zstd:1,zstd,1,baseline,"true",4,123684531,42108,485617664
+zstd:1,zstd,1,baseline,"true",5,125057682,42732,485617664
+zstd:1,zstd,1,baseline,"true",6,123542894,44820,485617664
+zstd:1,zstd,1,baseline,"true",7,125281828,42536,485617664
+zstd:1,zstd,1,baseline,"true",8,126789653,44880,485617664
+zstd:1,zstd,1,baseline,"true",9,128987738,42768,485617664
+zstd:1,zstd,1,baseline,"true",10,127559769,40684,485617664
+zstd:1,zstd,1,baseline,"true",11,128706093,43080,485617664
+zstd:1,zstd,1,baseline,"true",12,127773901,43436,485617664
+zstd:1,zstd,1,baseline,"true",13,126543613,42184,485617664
+zstd:1,zstd,1,baseline,"true",14,128261412,40936,485617664
+zstd:1,zstd,1,baseline,"true",15,128419228,43332,485617664
+zstd:1,zstd,1,baseline,"true",16,129397152,42180,485617664
+zstd:1,zstd,1,baseline,"true",17,131171180,41860,485617664
+zstd:1,zstd,1,baseline,"true",18,126845987,41392,485617664
+zstd:1,zstd,1,baseline,"true",19,125594278,43008,485617664
+zstd:1,zstd,1,baseline,"true",20,133244456,43040,485617664
+zstd:1,zstd,1,baseline,"true",21,128233702,43524,485617664
+zstd:1,zstd,1,baseline,"true",22,126438719,44748,485617664
+zstd:1,zstd,1,baseline,"true",23,125783963,41984,485617664
+zstd:1,zstd,1,baseline,"true",24,127669873,42008,485617664
+zstd:1,zstd,1,baseline,"true",25,130819501,42908,485617664
+zstd:1,zstd,1,baseline,"true",26,130638703,44660,485617664
+zstd:1,zstd,1,baseline,"true",27,127792726,42892,485617664
+zstd:1,zstd,1,baseline,"true",28,133445895,44816,485617664
+zstd:1,zstd,1,baseline,"true",29,131576598,42848,485617664
+zstd:1,zstd,1,java,"java -version",0,262849193,46396,485617664
+zstd:1,zstd,1,java,"java -version",1,253209627,46308,485617664
+zstd:1,zstd,1,java,"java -version",2,247830824,46424,485617664
+zstd:1,zstd,1,java,"java -version",3,254645942,46424,485617664
+zstd:1,zstd,1,java,"java -version",4,255908272,46272,485617664
+zstd:1,zstd,1,java,"java -version",5,250663166,46176,485617664
+zstd:1,zstd,1,java,"java -version",6,269580426,46600,485617664
+zstd:1,zstd,1,java,"java -version",7,253706006,46560,485617664
+zstd:1,zstd,1,java,"java -version",8,241252189,46160,485617664
+zstd:1,zstd,1,java,"java -version",9,242065519,45904,485617664
+zstd:1,zstd,1,java,"java -version",10,243700037,46276,485617664
+zstd:1,zstd,1,java,"java -version",11,242230954,46388,485617664
+zstd:1,zstd,1,java,"java -version",12,245110102,46816,485617664
+zstd:1,zstd,1,java,"java -version",13,249791344,46416,485617664
+zstd:1,zstd,1,java,"java -version",14,242953356,46756,485617664
+zstd:1,zstd,1,java,"java -version",15,244891715,46456,485617664
+zstd:1,zstd,1,java,"java -version",16,243750428,46744,485617664
+zstd:1,zstd,1,java,"java -version",17,243042077,46640,485617664
+zstd:1,zstd,1,java,"java -version",18,241828309,46560,485617664
+zstd:1,zstd,1,java,"java -version",19,243001780,46788,485617664
+zstd:1,zstd,1,java,"java -version",20,241557268,46268,485617664
+zstd:1,zstd,1,java,"java -version",21,242232363,46432,485617664
+zstd:1,zstd,1,java,"java -version",22,244930258,46192,485617664
+zstd:1,zstd,1,java,"java -version",23,243790478,46556,485617664
+zstd:1,zstd,1,java,"java -version",24,242695378,46132,485617664
+zstd:1,zstd,1,java,"java -version",25,240717595,46760,485617664
+zstd:1,zstd,1,java,"java -version",26,241657836,46644,485617664
+zstd:1,zstd,1,java,"java -version",27,240685671,46284,485617664
+zstd:1,zstd,1,java,"java -version",28,242020060,46784,485617664
+zstd:1,zstd,1,java,"java -version",29,242573751,46412,485617664
+zstd:8,zstd,8,samtools,"samtools --version",0,170205629,44984,435867648
+zstd:8,zstd,8,samtools,"samtools --version",1,169832822,43088,435867648
+zstd:8,zstd,8,samtools,"samtools --version",2,169169735,43488,435867648
+zstd:8,zstd,8,samtools,"samtools --version",3,169433085,42244,435867648
+zstd:8,zstd,8,samtools,"samtools --version",4,170860087,42564,435867648
+zstd:8,zstd,8,samtools,"samtools --version",5,170442227,43076,435867648
+zstd:8,zstd,8,samtools,"samtools --version",6,170609320,42384,435867648
+zstd:8,zstd,8,samtools,"samtools --version",7,171768254,43772,435867648
+zstd:8,zstd,8,samtools,"samtools --version",8,170687196,42664,435867648
+zstd:8,zstd,8,samtools,"samtools --version",9,168409952,43236,435867648
+zstd:8,zstd,8,samtools,"samtools --version",10,170892619,44952,435867648
+zstd:8,zstd,8,samtools,"samtools --version",11,170042554,42424,435867648
+zstd:8,zstd,8,samtools,"samtools --version",12,169880580,43752,435867648
+zstd:8,zstd,8,samtools,"samtools --version",13,173686644,43160,435867648
+zstd:8,zstd,8,samtools,"samtools --version",14,170833471,44512,435867648
+zstd:8,zstd,8,samtools,"samtools --version",15,172363865,43228,435867648
+zstd:8,zstd,8,samtools,"samtools --version",16,169217971,42528,435867648
+zstd:8,zstd,8,samtools,"samtools --version",17,169530533,41160,435867648
+zstd:8,zstd,8,samtools,"samtools --version",18,170942576,43312,435867648
+zstd:8,zstd,8,samtools,"samtools --version",19,170401673,43196,435867648
+zstd:8,zstd,8,samtools,"samtools --version",20,179025566,42588,435867648
+zstd:8,zstd,8,samtools,"samtools --version",21,171390741,43168,435867648
+zstd:8,zstd,8,samtools,"samtools --version",22,170177108,45008,435867648
+zstd:8,zstd,8,samtools,"samtools --version",23,169926936,43436,435867648
+zstd:8,zstd,8,samtools,"samtools --version",24,171575134,44872,435867648
+zstd:8,zstd,8,samtools,"samtools --version",25,169997086,43236,435867648
+zstd:8,zstd,8,samtools,"samtools --version",26,170280188,42844,435867648
+zstd:8,zstd,8,samtools,"samtools --version",27,169366436,42864,435867648
+zstd:8,zstd,8,samtools,"samtools --version",28,170657954,42800,435867648
+zstd:8,zstd,8,samtools,"samtools --version",29,170103752,42720,435867648
+zstd:8,zstd,8,python-import,"python3 -c 'import numpy, pandas, sklearn'",0,2135031121,139204,435867648
+zstd:8,zstd,8,python-import,"python3 -c 'import numpy, pandas, sklearn'",1,2187413334,138652,435867648
+zstd:8,zstd,8,python-import,"python3 -c 'import numpy, pandas, sklearn'",2,2238452764,140592,435867648
+zstd:8,zstd,8,python-import,"python3 -c 'import numpy, pandas, sklearn'",3,2159422656,139196,435867648
+zstd:8,zstd,8,python-import,"python3 -c 'import numpy, pandas, sklearn'",4,2149657955,138680,435867648
+zstd:8,zstd,8,python-import,"python3 -c 'import numpy, pandas, sklearn'",5,2164397231,139296,435867648
+zstd:8,zstd,8,python-import,"python3 -c 'import numpy, pandas, sklearn'",6,2169063335,139228,435867648
+zstd:8,zstd,8,python-import,"python3 -c 'import numpy, pandas, sklearn'",7,2155820911,140852,435867648
+zstd:8,zstd,8,python-import,"python3 -c 'import numpy, pandas, sklearn'",8,2142440323,141100,435867648
+zstd:8,zstd,8,python-import,"python3 -c 'import numpy, pandas, sklearn'",9,2162600486,140624,435867648
+zstd:8,zstd,8,python-import,"python3 -c 'import numpy, pandas, sklearn'",10,2163639044,139768,435867648
+zstd:8,zstd,8,python-import,"python3 -c 'import numpy, pandas, sklearn'",11,2176371787,139132,435867648
+zstd:8,zstd,8,python-import,"python3 -c 'import numpy, pandas, sklearn'",12,2158669910,139548,435867648
+zstd:8,zstd,8,python-import,"python3 -c 'import numpy, pandas, sklearn'",13,2188325099,139460,435867648
+zstd:8,zstd,8,python-import,"python3 -c 'import numpy, pandas, sklearn'",14,2197456088,138800,435867648
+zstd:8,zstd,8,python-import,"python3 -c 'import numpy, pandas, sklearn'",15,2151398803,139044,435867648
+zstd:8,zstd,8,python-import,"python3 -c 'import numpy, pandas, sklearn'",16,2151638724,139080,435867648
+zstd:8,zstd,8,python-import,"python3 -c 'import numpy, pandas, sklearn'",17,2171770488,140900,435867648
+zstd:8,zstd,8,python-import,"python3 -c 'import numpy, pandas, sklearn'",18,2157235206,139096,435867648
+zstd:8,zstd,8,python-import,"python3 -c 'import numpy, pandas, sklearn'",19,2151260034,141556,435867648
+zstd:8,zstd,8,python-import,"python3 -c 'import numpy, pandas, sklearn'",20,2149757558,141132,435867648
+zstd:8,zstd,8,python-import,"python3 -c 'import numpy, pandas, sklearn'",21,2155258821,139156,435867648
+zstd:8,zstd,8,python-import,"python3 -c 'import numpy, pandas, sklearn'",22,2168497278,140820,435867648
+zstd:8,zstd,8,python-import,"python3 -c 'import numpy, pandas, sklearn'",23,2132288330,139056,435867648
+zstd:8,zstd,8,python-import,"python3 -c 'import numpy, pandas, sklearn'",24,2166900191,139088,435867648
+zstd:8,zstd,8,python-import,"python3 -c 'import numpy, pandas, sklearn'",25,2129962352,139328,435867648
+zstd:8,zstd,8,python-import,"python3 -c 'import numpy, pandas, sklearn'",26,2180364076,141020,435867648
+zstd:8,zstd,8,python-import,"python3 -c 'import numpy, pandas, sklearn'",27,2163575744,138800,435867648
+zstd:8,zstd,8,python-import,"python3 -c 'import numpy, pandas, sklearn'",28,2135616032,140952,435867648
+zstd:8,zstd,8,python-import,"python3 -c 'import numpy, pandas, sklearn'",29,2161886766,139052,435867648
+zstd:8,zstd,8,cutadapt,"cutadapt --version",0,314497365,45220,435867648
+zstd:8,zstd,8,cutadapt,"cutadapt --version",1,313525168,45876,435867648
+zstd:8,zstd,8,cutadapt,"cutadapt --version",2,311671055,42664,435867648
+zstd:8,zstd,8,cutadapt,"cutadapt --version",3,317821524,44868,435867648
+zstd:8,zstd,8,cutadapt,"cutadapt --version",4,312744638,44848,435867648
+zstd:8,zstd,8,cutadapt,"cutadapt --version",5,314169736,43164,435867648
+zstd:8,zstd,8,cutadapt,"cutadapt --version",6,313791882,42964,435867648
+zstd:8,zstd,8,cutadapt,"cutadapt --version",7,312355395,44972,435867648
+zstd:8,zstd,8,cutadapt,"cutadapt --version",8,309362923,43036,435867648
+zstd:8,zstd,8,cutadapt,"cutadapt --version",9,320921746,45016,435867648
+zstd:8,zstd,8,cutadapt,"cutadapt --version",10,325110967,45176,435867648
+zstd:8,zstd,8,cutadapt,"cutadapt --version",11,321697141,43528,435867648
+zstd:8,zstd,8,cutadapt,"cutadapt --version",12,312549014,44768,435867648
+zstd:8,zstd,8,cutadapt,"cutadapt --version",13,311780291,42876,435867648
+zstd:8,zstd,8,cutadapt,"cutadapt --version",14,311340167,42572,435867648
+zstd:8,zstd,8,cutadapt,"cutadapt --version",15,319534093,44380,435867648
+zstd:8,zstd,8,cutadapt,"cutadapt --version",16,317994786,42088,435867648
+zstd:8,zstd,8,cutadapt,"cutadapt --version",17,312877910,42608,435867648
+zstd:8,zstd,8,cutadapt,"cutadapt --version",18,311175244,41240,435867648
+zstd:8,zstd,8,cutadapt,"cutadapt --version",19,310881346,42832,435867648
+zstd:8,zstd,8,cutadapt,"cutadapt --version",20,310803369,44436,435867648
+zstd:8,zstd,8,cutadapt,"cutadapt --version",21,312214139,44928,435867648
+zstd:8,zstd,8,cutadapt,"cutadapt --version",22,309981765,43544,435867648
+zstd:8,zstd,8,cutadapt,"cutadapt --version",23,316910884,45000,435867648
+zstd:8,zstd,8,cutadapt,"cutadapt --version",24,308911666,42480,435867648
+zstd:8,zstd,8,cutadapt,"cutadapt --version",25,310543027,44696,435867648
+zstd:8,zstd,8,cutadapt,"cutadapt --version",26,312111055,44116,435867648
+zstd:8,zstd,8,cutadapt,"cutadapt --version",27,311354006,43188,435867648
+zstd:8,zstd,8,cutadapt,"cutadapt --version",28,310531511,44700,435867648
+zstd:8,zstd,8,cutadapt,"cutadapt --version",29,311496867,45140,435867648
+zstd:8,zstd,8,snakemake,"snakemake --version",0,1403457493,79272,435867648
+zstd:8,zstd,8,snakemake,"snakemake --version",1,1411031797,79284,435867648
+zstd:8,zstd,8,snakemake,"snakemake --version",2,1403270972,79184,435867648
+zstd:8,zstd,8,snakemake,"snakemake --version",3,1402397994,79188,435867648
+zstd:8,zstd,8,snakemake,"snakemake --version",4,1409938793,78988,435867648
+zstd:8,zstd,8,snakemake,"snakemake --version",5,1416708216,78956,435867648
+zstd:8,zstd,8,snakemake,"snakemake --version",6,1403493376,79252,435867648
+zstd:8,zstd,8,snakemake,"snakemake --version",7,1383589804,79344,435867648
+zstd:8,zstd,8,snakemake,"snakemake --version",8,1428950093,78892,435867648
+zstd:8,zstd,8,snakemake,"snakemake --version",9,1389639472,79320,435867648
+zstd:8,zstd,8,snakemake,"snakemake --version",10,1421818504,79304,435867648
+zstd:8,zstd,8,snakemake,"snakemake --version",11,1416918373,79028,435867648
+zstd:8,zstd,8,snakemake,"snakemake --version",12,1391608288,79096,435867648
+zstd:8,zstd,8,snakemake,"snakemake --version",13,1413062053,79036,435867648
+zstd:8,zstd,8,snakemake,"snakemake --version",14,1412297750,78988,435867648
+zstd:8,zstd,8,snakemake,"snakemake --version",15,1416866992,79444,435867648
+zstd:8,zstd,8,snakemake,"snakemake --version",16,1400503724,79420,435867648
+zstd:8,zstd,8,snakemake,"snakemake --version",17,1418579351,79116,435867648
+zstd:8,zstd,8,snakemake,"snakemake --version",18,1407366340,79180,435867648
+zstd:8,zstd,8,snakemake,"snakemake --version",19,1409512352,78884,435867648
+zstd:8,zstd,8,snakemake,"snakemake --version",20,1417361632,79312,435867648
+zstd:8,zstd,8,snakemake,"snakemake --version",21,1410480911,79124,435867648
+zstd:8,zstd,8,snakemake,"snakemake --version",22,1412739831,79236,435867648
+zstd:8,zstd,8,snakemake,"snakemake --version",23,1447294363,78984,435867648
+zstd:8,zstd,8,snakemake,"snakemake --version",24,1392959320,79020,435867648
+zstd:8,zstd,8,snakemake,"snakemake --version",25,1417819442,79060,435867648
+zstd:8,zstd,8,snakemake,"snakemake --version",26,1412141506,79148,435867648
+zstd:8,zstd,8,snakemake,"snakemake --version",27,1400117714,78976,435867648
+zstd:8,zstd,8,snakemake,"snakemake --version",28,1400945986,78908,435867648
+zstd:8,zstd,8,snakemake,"snakemake --version",29,1403030230,79264,435867648
+zstd:8,zstd,8,baseline,"true",0,124665823,44148,435867648
+zstd:8,zstd,8,baseline,"true",1,124571135,43436,435867648
+zstd:8,zstd,8,baseline,"true",2,124504366,42300,435867648
+zstd:8,zstd,8,baseline,"true",3,124362996,42784,435867648
+zstd:8,zstd,8,baseline,"true",4,124289145,44128,435867648
+zstd:8,zstd,8,baseline,"true",5,123474982,44612,435867648
+zstd:8,zstd,8,baseline,"true",6,123633790,42168,435867648
+zstd:8,zstd,8,baseline,"true",7,124140714,44692,435867648
+zstd:8,zstd,8,baseline,"true",8,122235852,42148,435867648
+zstd:8,zstd,8,baseline,"true",9,122967399,42320,435867648
+zstd:8,zstd,8,baseline,"true",10,124997389,44652,435867648
+zstd:8,zstd,8,baseline,"true",11,126251090,44912,435867648
+zstd:8,zstd,8,baseline,"true",12,124898867,45472,435867648
+zstd:8,zstd,8,baseline,"true",13,126481903,42584,435867648
+zstd:8,zstd,8,baseline,"true",14,125803434,42792,435867648
+zstd:8,zstd,8,baseline,"true",15,123473361,41108,435867648
+zstd:8,zstd,8,baseline,"true",16,122161139,42716,435867648
+zstd:8,zstd,8,baseline,"true",17,134469230,43556,435867648
+zstd:8,zstd,8,baseline,"true",18,137155119,44740,435867648
+zstd:8,zstd,8,baseline,"true",19,123061090,43388,435867648
+zstd:8,zstd,8,baseline,"true",20,124578703,44992,435867648
+zstd:8,zstd,8,baseline,"true",21,124438733,43020,435867648
+zstd:8,zstd,8,baseline,"true",22,123940578,43716,435867648
+zstd:8,zstd,8,baseline,"true",23,122700414,43216,435867648
+zstd:8,zstd,8,baseline,"true",24,123225193,43088,435867648
+zstd:8,zstd,8,baseline,"true",25,122019764,45624,435867648
+zstd:8,zstd,8,baseline,"true",26,121925123,42820,435867648
+zstd:8,zstd,8,baseline,"true",27,122555970,42828,435867648
+zstd:8,zstd,8,baseline,"true",28,126511919,43224,435867648
+zstd:8,zstd,8,baseline,"true",29,123241737,45236,435867648
+zstd:8,zstd,8,java,"java -version",0,247643452,46392,435867648
+zstd:8,zstd,8,java,"java -version",1,251384357,46248,435867648
+zstd:8,zstd,8,java,"java -version",2,251525134,46428,435867648
+zstd:8,zstd,8,java,"java -version",3,250453465,46672,435867648
+zstd:8,zstd,8,java,"java -version",4,248396707,46444,435867648
+zstd:8,zstd,8,java,"java -version",5,251944134,46708,435867648
+zstd:8,zstd,8,java,"java -version",6,246061266,46576,435867648
+zstd:8,zstd,8,java,"java -version",7,247400504,46260,435867648
+zstd:8,zstd,8,java,"java -version",8,246222942,46556,435867648
+zstd:8,zstd,8,java,"java -version",9,245581727,46108,435867648
+zstd:8,zstd,8,java,"java -version",10,245809596,46560,435867648
+zstd:8,zstd,8,java,"java -version",11,246119191,46644,435867648
+zstd:8,zstd,8,java,"java -version",12,246200719,47836,435867648
+zstd:8,zstd,8,java,"java -version",13,247545219,46524,435867648
+zstd:8,zstd,8,java,"java -version",14,246166624,46560,435867648
+zstd:8,zstd,8,java,"java -version",15,246621992,46304,435867648
+zstd:8,zstd,8,java,"java -version",16,246419586,46384,435867648
+zstd:8,zstd,8,java,"java -version",17,247578368,46548,435867648
+zstd:8,zstd,8,java,"java -version",18,247798794,46528,435867648
+zstd:8,zstd,8,java,"java -version",19,248226946,46836,435867648
+zstd:8,zstd,8,java,"java -version",20,245952796,46696,435867648
+zstd:8,zstd,8,java,"java -version",21,246274525,46572,435867648
+zstd:8,zstd,8,java,"java -version",22,246788594,46460,435867648
+zstd:8,zstd,8,java,"java -version",23,247263459,46460,435867648
+zstd:8,zstd,8,java,"java -version",24,249299581,46340,435867648
+zstd:8,zstd,8,java,"java -version",25,246961591,46592,435867648
+zstd:8,zstd,8,java,"java -version",26,246350652,46612,435867648
+zstd:8,zstd,8,java,"java -version",27,246205988,46080,435867648
+zstd:8,zstd,8,java,"java -version",28,246971874,46636,435867648
+zstd:8,zstd,8,java,"java -version",29,245741686,46404,435867648
+zstd:14,zstd,14,samtools,"samtools --version",0,186244931,42688,413626368
+zstd:14,zstd,14,samtools,"samtools --version",1,179647507,45052,413626368
+zstd:14,zstd,14,samtools,"samtools --version",2,179694312,43168,413626368
+zstd:14,zstd,14,samtools,"samtools --version",3,182225407,43144,413626368
+zstd:14,zstd,14,samtools,"samtools --version",4,179412829,45616,413626368
+zstd:14,zstd,14,samtools,"samtools --version",5,182047679,40700,413626368
+zstd:14,zstd,14,samtools,"samtools --version",6,179309059,42332,413626368
+zstd:14,zstd,14,samtools,"samtools --version",7,179407893,42476,413626368
+zstd:14,zstd,14,samtools,"samtools --version",8,179499812,43908,413626368
+zstd:14,zstd,14,samtools,"samtools --version",9,179543930,43216,413626368
+zstd:14,zstd,14,samtools,"samtools --version",10,180103242,45920,413626368
+zstd:14,zstd,14,samtools,"samtools --version",11,179559559,41804,413626368
+zstd:14,zstd,14,samtools,"samtools --version",12,180802073,43260,413626368
+zstd:14,zstd,14,samtools,"samtools --version",13,179590173,44736,413626368
+zstd:14,zstd,14,samtools,"samtools --version",14,181586092,42648,413626368
+zstd:14,zstd,14,samtools,"samtools --version",15,180140283,45084,413626368
+zstd:14,zstd,14,samtools,"samtools --version",16,180152952,44684,413626368
+zstd:14,zstd,14,samtools,"samtools --version",17,179625520,40336,413626368
+zstd:14,zstd,14,samtools,"samtools --version",18,192511233,42680,413626368
+zstd:14,zstd,14,samtools,"samtools --version",19,181837367,42988,413626368
+zstd:14,zstd,14,samtools,"samtools --version",20,182711236,44448,413626368
+zstd:14,zstd,14,samtools,"samtools --version",21,182581711,42400,413626368
+zstd:14,zstd,14,samtools,"samtools --version",22,179567534,43264,413626368
+zstd:14,zstd,14,samtools,"samtools --version",23,180817734,43532,413626368
+zstd:14,zstd,14,samtools,"samtools --version",24,180573739,42384,413626368
+zstd:14,zstd,14,samtools,"samtools --version",25,182367692,45032,413626368
+zstd:14,zstd,14,samtools,"samtools --version",26,178008561,43264,413626368
+zstd:14,zstd,14,samtools,"samtools --version",27,178946405,43368,413626368
+zstd:14,zstd,14,samtools,"samtools --version",28,178146600,42668,413626368
+zstd:14,zstd,14,samtools,"samtools --version",29,179963359,43800,413626368
+zstd:14,zstd,14,python-import,"python3 -c 'import numpy, pandas, sklearn'",0,2240239314,139216,413626368
+zstd:14,zstd,14,python-import,"python3 -c 'import numpy, pandas, sklearn'",1,2212456514,139116,413626368
+zstd:14,zstd,14,python-import,"python3 -c 'import numpy, pandas, sklearn'",2,2241957473,138432,413626368
+zstd:14,zstd,14,python-import,"python3 -c 'import numpy, pandas, sklearn'",3,2231662723,139276,413626368
+zstd:14,zstd,14,python-import,"python3 -c 'import numpy, pandas, sklearn'",4,2218914049,139184,413626368
+zstd:14,zstd,14,python-import,"python3 -c 'import numpy, pandas, sklearn'",5,2229310061,139028,413626368
+zstd:14,zstd,14,python-import,"python3 -c 'import numpy, pandas, sklearn'",6,2204994537,138560,413626368
+zstd:14,zstd,14,python-import,"python3 -c 'import numpy, pandas, sklearn'",7,2268928716,141092,413626368
+zstd:14,zstd,14,python-import,"python3 -c 'import numpy, pandas, sklearn'",8,2260030577,139100,413626368
+zstd:14,zstd,14,python-import,"python3 -c 'import numpy, pandas, sklearn'",9,2267078432,141116,413626368
+zstd:14,zstd,14,python-import,"python3 -c 'import numpy, pandas, sklearn'",10,2245980212,139744,413626368
+zstd:14,zstd,14,python-import,"python3 -c 'import numpy, pandas, sklearn'",11,2213114074,139344,413626368
+zstd:14,zstd,14,python-import,"python3 -c 'import numpy, pandas, sklearn'",12,2241991314,139364,413626368
+zstd:14,zstd,14,python-import,"python3 -c 'import numpy, pandas, sklearn'",13,2250181425,139068,413626368
+zstd:14,zstd,14,python-import,"python3 -c 'import numpy, pandas, sklearn'",14,2355303877,138344,413626368
+zstd:14,zstd,14,python-import,"python3 -c 'import numpy, pandas, sklearn'",15,2243054676,139312,413626368
+zstd:14,zstd,14,python-import,"python3 -c 'import numpy, pandas, sklearn'",16,2342042486,140780,413626368
+zstd:14,zstd,14,python-import,"python3 -c 'import numpy, pandas, sklearn'",17,2416950129,138464,413626368
+zstd:14,zstd,14,python-import,"python3 -c 'import numpy, pandas, sklearn'",18,2323892926,139032,413626368
+zstd:14,zstd,14,python-import,"python3 -c 'import numpy, pandas, sklearn'",19,2347750843,141076,413626368
+zstd:14,zstd,14,python-import,"python3 -c 'import numpy, pandas, sklearn'",20,2302588895,139324,413626368
+zstd:14,zstd,14,python-import,"python3 -c 'import numpy, pandas, sklearn'",21,2313181421,139064,413626368
+zstd:14,zstd,14,python-import,"python3 -c 'import numpy, pandas, sklearn'",22,2286265162,141048,413626368
+zstd:14,zstd,14,python-import,"python3 -c 'import numpy, pandas, sklearn'",23,2262640988,138852,413626368
+zstd:14,zstd,14,python-import,"python3 -c 'import numpy, pandas, sklearn'",24,2307717941,138964,413626368
+zstd:14,zstd,14,python-import,"python3 -c 'import numpy, pandas, sklearn'",25,2265390733,139348,413626368
+zstd:14,zstd,14,python-import,"python3 -c 'import numpy, pandas, sklearn'",26,2269958405,139296,413626368
+zstd:14,zstd,14,python-import,"python3 -c 'import numpy, pandas, sklearn'",27,2294718972,141140,413626368
+zstd:14,zstd,14,python-import,"python3 -c 'import numpy, pandas, sklearn'",28,2270781321,140608,413626368
+zstd:14,zstd,14,python-import,"python3 -c 'import numpy, pandas, sklearn'",29,2351192049,141328,413626368
+zstd:14,zstd,14,cutadapt,"cutadapt --version",0,329990585,40860,413626368
+zstd:14,zstd,14,cutadapt,"cutadapt --version",1,326888258,45240,413626368
+zstd:14,zstd,14,cutadapt,"cutadapt --version",2,332008418,42964,413626368
+zstd:14,zstd,14,cutadapt,"cutadapt --version",3,329081967,42164,413626368
+zstd:14,zstd,14,cutadapt,"cutadapt --version",4,324541180,45004,413626368
+zstd:14,zstd,14,cutadapt,"cutadapt --version",5,329180229,42756,413626368
+zstd:14,zstd,14,cutadapt,"cutadapt --version",6,327602230,42764,413626368
+zstd:14,zstd,14,cutadapt,"cutadapt --version",7,329930845,44296,413626368
+zstd:14,zstd,14,cutadapt,"cutadapt --version",8,325571065,43008,413626368
+zstd:14,zstd,14,cutadapt,"cutadapt --version",9,325289182,42848,413626368
+zstd:14,zstd,14,cutadapt,"cutadapt --version",10,326570465,42732,413626368
+zstd:14,zstd,14,cutadapt,"cutadapt --version",11,326957883,42968,413626368
+zstd:14,zstd,14,cutadapt,"cutadapt --version",12,330342719,42796,413626368
+zstd:14,zstd,14,cutadapt,"cutadapt --version",13,328299804,42908,413626368
+zstd:14,zstd,14,cutadapt,"cutadapt --version",14,325383034,44460,413626368
+zstd:14,zstd,14,cutadapt,"cutadapt --version",15,327966148,42204,413626368
+zstd:14,zstd,14,cutadapt,"cutadapt --version",16,333190206,43052,413626368
+zstd:14,zstd,14,cutadapt,"cutadapt --version",17,328051790,44744,413626368
+zstd:14,zstd,14,cutadapt,"cutadapt --version",18,326173363,44288,413626368
+zstd:14,zstd,14,cutadapt,"cutadapt --version",19,330146549,40680,413626368
+zstd:14,zstd,14,cutadapt,"cutadapt --version",20,334127032,42468,413626368
+zstd:14,zstd,14,cutadapt,"cutadapt --version",21,330122312,42912,413626368
+zstd:14,zstd,14,cutadapt,"cutadapt --version",22,325005646,43512,413626368
+zstd:14,zstd,14,cutadapt,"cutadapt --version",23,338278596,43372,413626368
+zstd:14,zstd,14,cutadapt,"cutadapt --version",24,325538640,45968,413626368
+zstd:14,zstd,14,cutadapt,"cutadapt --version",25,326352609,45232,413626368
+zstd:14,zstd,14,cutadapt,"cutadapt --version",26,330743302,42812,413626368
+zstd:14,zstd,14,cutadapt,"cutadapt --version",27,332427381,42716,413626368
+zstd:14,zstd,14,cutadapt,"cutadapt --version",28,333856803,44104,413626368
+zstd:14,zstd,14,cutadapt,"cutadapt --version",29,332533418,43428,413626368
+zstd:14,zstd,14,snakemake,"snakemake --version",0,1472751341,78760,413626368
+zstd:14,zstd,14,snakemake,"snakemake --version",1,1432750173,78864,413626368
+zstd:14,zstd,14,snakemake,"snakemake --version",2,1427350855,79032,413626368
+zstd:14,zstd,14,snakemake,"snakemake --version",3,1431247021,79200,413626368
+zstd:14,zstd,14,snakemake,"snakemake --version",4,1468868255,78808,413626368
+zstd:14,zstd,14,snakemake,"snakemake --version",5,1447082322,78896,413626368
+zstd:14,zstd,14,snakemake,"snakemake --version",6,1442315641,78836,413626368
+zstd:14,zstd,14,snakemake,"snakemake --version",7,1481123327,79308,413626368
+zstd:14,zstd,14,snakemake,"snakemake --version",8,1425865566,78860,413626368
+zstd:14,zstd,14,snakemake,"snakemake --version",9,1443878296,78728,413626368
+zstd:14,zstd,14,snakemake,"snakemake --version",10,1443794716,78952,413626368
+zstd:14,zstd,14,snakemake,"snakemake --version",11,1421803441,79100,413626368
+zstd:14,zstd,14,snakemake,"snakemake --version",12,1456425080,78936,413626368
+zstd:14,zstd,14,snakemake,"snakemake --version",13,1436339801,79056,413626368
+zstd:14,zstd,14,snakemake,"snakemake --version",14,1442179069,79428,413626368
+zstd:14,zstd,14,snakemake,"snakemake --version",15,1458709139,78944,413626368
+zstd:14,zstd,14,snakemake,"snakemake --version",16,1419496087,79008,413626368
+zstd:14,zstd,14,snakemake,"snakemake --version",17,1447584293,79408,413626368
+zstd:14,zstd,14,snakemake,"snakemake --version",18,1438176735,79192,413626368
+zstd:14,zstd,14,snakemake,"snakemake --version",19,1414339673,79596,413626368
+zstd:14,zstd,14,snakemake,"snakemake --version",20,1467461440,79252,413626368
+zstd:14,zstd,14,snakemake,"snakemake --version",21,1440581296,79320,413626368
+zstd:14,zstd,14,snakemake,"snakemake --version",22,1442105549,79160,413626368
+zstd:14,zstd,14,snakemake,"snakemake --version",23,1428962949,78840,413626368
+zstd:14,zstd,14,snakemake,"snakemake --version",24,1446851983,79004,413626368
+zstd:14,zstd,14,snakemake,"snakemake --version",25,1442763899,79108,413626368
+zstd:14,zstd,14,snakemake,"snakemake --version",26,1447143687,79256,413626368
+zstd:14,zstd,14,snakemake,"snakemake --version",27,1447868581,79052,413626368
+zstd:14,zstd,14,snakemake,"snakemake --version",28,1414607461,79128,413626368
+zstd:14,zstd,14,snakemake,"snakemake --version",29,1431119157,79172,413626368
+zstd:14,zstd,14,baseline,"true",0,126076326,45528,413626368
+zstd:14,zstd,14,baseline,"true",1,126342550,45008,413626368
+zstd:14,zstd,14,baseline,"true",2,123755703,43152,413626368
+zstd:14,zstd,14,baseline,"true",3,125048190,43468,413626368
+zstd:14,zstd,14,baseline,"true",4,125360115,43192,413626368
+zstd:14,zstd,14,baseline,"true",5,123459875,42808,413626368
+zstd:14,zstd,14,baseline,"true",6,126463356,43608,413626368
+zstd:14,zstd,14,baseline,"true",7,124193737,42528,413626368
+zstd:14,zstd,14,baseline,"true",8,123502423,42808,413626368
+zstd:14,zstd,14,baseline,"true",9,125255347,40988,413626368
+zstd:14,zstd,14,baseline,"true",10,126904494,44452,413626368
+zstd:14,zstd,14,baseline,"true",11,127349492,45124,413626368
+zstd:14,zstd,14,baseline,"true",12,124102846,43468,413626368
+zstd:14,zstd,14,baseline,"true",13,126178070,44052,413626368
+zstd:14,zstd,14,baseline,"true",14,124619723,44556,413626368
+zstd:14,zstd,14,baseline,"true",15,126032419,42312,413626368
+zstd:14,zstd,14,baseline,"true",16,125217128,42820,413626368
+zstd:14,zstd,14,baseline,"true",17,126146338,42516,413626368
+zstd:14,zstd,14,baseline,"true",18,124792915,42992,413626368
+zstd:14,zstd,14,baseline,"true",19,125181788,44348,413626368
+zstd:14,zstd,14,baseline,"true",20,124028355,44148,413626368
+zstd:14,zstd,14,baseline,"true",21,123756840,43196,413626368
+zstd:14,zstd,14,baseline,"true",22,124755853,44296,413626368
+zstd:14,zstd,14,baseline,"true",23,125023271,43200,413626368
+zstd:14,zstd,14,baseline,"true",24,124042924,40616,413626368
+zstd:14,zstd,14,baseline,"true",25,127192497,45752,413626368
+zstd:14,zstd,14,baseline,"true",26,124749013,43148,413626368
+zstd:14,zstd,14,baseline,"true",27,124972193,42860,413626368
+zstd:14,zstd,14,baseline,"true",28,125930482,42660,413626368
+zstd:14,zstd,14,baseline,"true",29,124582482,44936,413626368
+zstd:14,zstd,14,java,"java -version",0,265906687,46308,413626368
+zstd:14,zstd,14,java,"java -version",1,266262340,46260,413626368
+zstd:14,zstd,14,java,"java -version",2,266461115,46040,413626368
+zstd:14,zstd,14,java,"java -version",3,264784044,46256,413626368
+zstd:14,zstd,14,java,"java -version",4,265265420,46820,413626368
+zstd:14,zstd,14,java,"java -version",5,265809552,46664,413626368
+zstd:14,zstd,14,java,"java -version",6,266666474,46296,413626368
+zstd:14,zstd,14,java,"java -version",7,264616566,46768,413626368
+zstd:14,zstd,14,java,"java -version",8,265515793,45976,413626368
+zstd:14,zstd,14,java,"java -version",9,263330795,46684,413626368
+zstd:14,zstd,14,java,"java -version",10,264873119,46400,413626368
+zstd:14,zstd,14,java,"java -version",11,266006250,46560,413626368
+zstd:14,zstd,14,java,"java -version",12,264472745,46264,413626368
+zstd:14,zstd,14,java,"java -version",13,265635645,46632,413626368
+zstd:14,zstd,14,java,"java -version",14,268127502,46252,413626368
+zstd:14,zstd,14,java,"java -version",15,264005831,46240,413626368
+zstd:14,zstd,14,java,"java -version",16,267274516,48536,413626368
+zstd:14,zstd,14,java,"java -version",17,270322967,46676,413626368
+zstd:14,zstd,14,java,"java -version",18,264761603,48488,413626368
+zstd:14,zstd,14,java,"java -version",19,266212452,46160,413626368
+zstd:14,zstd,14,java,"java -version",20,266339512,46272,413626368
+zstd:14,zstd,14,java,"java -version",21,266873017,46284,413626368
+zstd:14,zstd,14,java,"java -version",22,263981889,46124,413626368
+zstd:14,zstd,14,java,"java -version",23,264348871,46316,413626368
+zstd:14,zstd,14,java,"java -version",24,265030869,46704,413626368
+zstd:14,zstd,14,java,"java -version",25,265984118,46744,413626368
+zstd:14,zstd,14,java,"java -version",26,266297880,46512,413626368
+zstd:14,zstd,14,java,"java -version",27,269519609,46124,413626368
+zstd:14,zstd,14,java,"java -version",28,269989391,46876,413626368
+zstd:14,zstd,14,java,"java -version",29,272636389,46568,413626368
+zstd:19,zstd,19,samtools,"samtools --version",0,183372821,42244,408317952
+zstd:19,zstd,19,samtools,"samtools --version",1,183741949,44476,408317952
+zstd:19,zstd,19,samtools,"samtools --version",2,183005237,43428,408317952
+zstd:19,zstd,19,samtools,"samtools --version",3,185187719,43192,408317952
+zstd:19,zstd,19,samtools,"samtools --version",4,184225835,45444,408317952
+zstd:19,zstd,19,samtools,"samtools --version",5,181056613,42828,408317952
+zstd:19,zstd,19,samtools,"samtools --version",6,181640550,41048,408317952
+zstd:19,zstd,19,samtools,"samtools --version",7,181203372,43028,408317952
+zstd:19,zstd,19,samtools,"samtools --version",8,184128062,42352,408317952
+zstd:19,zstd,19,samtools,"samtools --version",9,184912272,45396,408317952
+zstd:19,zstd,19,samtools,"samtools --version",10,190543580,44804,408317952
+zstd:19,zstd,19,samtools,"samtools --version",11,179969380,42852,408317952
+zstd:19,zstd,19,samtools,"samtools --version",12,193594451,42452,408317952
+zstd:19,zstd,19,samtools,"samtools --version",13,186691214,43476,408317952
+zstd:19,zstd,19,samtools,"samtools --version",14,180883976,43288,408317952
+zstd:19,zstd,19,samtools,"samtools --version",15,182140027,43320,408317952
+zstd:19,zstd,19,samtools,"samtools --version",16,179465686,41872,408317952
+zstd:19,zstd,19,samtools,"samtools --version",17,178318444,42536,408317952
+zstd:19,zstd,19,samtools,"samtools --version",18,179295800,42192,408317952
+zstd:19,zstd,19,samtools,"samtools --version",19,181596466,43020,408317952
+zstd:19,zstd,19,samtools,"samtools --version",20,179578634,43016,408317952
+zstd:19,zstd,19,samtools,"samtools --version",21,180012088,42680,408317952
+zstd:19,zstd,19,samtools,"samtools --version",22,178825198,43008,408317952
+zstd:19,zstd,19,samtools,"samtools --version",23,181062363,43028,408317952
+zstd:19,zstd,19,samtools,"samtools --version",24,180588417,43512,408317952
+zstd:19,zstd,19,samtools,"samtools --version",25,178497276,43172,408317952
+zstd:19,zstd,19,samtools,"samtools --version",26,179246400,45104,408317952
+zstd:19,zstd,19,samtools,"samtools --version",27,181599137,42428,408317952
+zstd:19,zstd,19,samtools,"samtools --version",28,178677980,43632,408317952
+zstd:19,zstd,19,samtools,"samtools --version",29,179985883,43328,408317952
+zstd:19,zstd,19,python-import,"python3 -c 'import numpy, pandas, sklearn'",0,2209126559,138672,408317952
+zstd:19,zstd,19,python-import,"python3 -c 'import numpy, pandas, sklearn'",1,2223368805,138968,408317952
+zstd:19,zstd,19,python-import,"python3 -c 'import numpy, pandas, sklearn'",2,2226891669,140720,408317952
+zstd:19,zstd,19,python-import,"python3 -c 'import numpy, pandas, sklearn'",3,2215664844,138756,408317952
+zstd:19,zstd,19,python-import,"python3 -c 'import numpy, pandas, sklearn'",4,2212314522,139228,408317952
+zstd:19,zstd,19,python-import,"python3 -c 'import numpy, pandas, sklearn'",5,2208739468,139368,408317952
+zstd:19,zstd,19,python-import,"python3 -c 'import numpy, pandas, sklearn'",6,2217674213,140840,408317952
+zstd:19,zstd,19,python-import,"python3 -c 'import numpy, pandas, sklearn'",7,2237438200,138584,408317952
+zstd:19,zstd,19,python-import,"python3 -c 'import numpy, pandas, sklearn'",8,2209165032,140980,408317952
+zstd:19,zstd,19,python-import,"python3 -c 'import numpy, pandas, sklearn'",9,2217451836,138588,408317952
+zstd:19,zstd,19,python-import,"python3 -c 'import numpy, pandas, sklearn'",10,2209450857,139472,408317952
+zstd:19,zstd,19,python-import,"python3 -c 'import numpy, pandas, sklearn'",11,2230156989,138756,408317952
+zstd:19,zstd,19,python-import,"python3 -c 'import numpy, pandas, sklearn'",12,2250352733,139076,408317952
+zstd:19,zstd,19,python-import,"python3 -c 'import numpy, pandas, sklearn'",13,2202544718,139140,408317952
+zstd:19,zstd,19,python-import,"python3 -c 'import numpy, pandas, sklearn'",14,2220487475,139088,408317952
+zstd:19,zstd,19,python-import,"python3 -c 'import numpy, pandas, sklearn'",15,2226727514,139164,408317952
+zstd:19,zstd,19,python-import,"python3 -c 'import numpy, pandas, sklearn'",16,2210439655,139032,408317952
+zstd:19,zstd,19,python-import,"python3 -c 'import numpy, pandas, sklearn'",17,2214470844,139448,408317952
+zstd:19,zstd,19,python-import,"python3 -c 'import numpy, pandas, sklearn'",18,2217131319,139492,408317952
+zstd:19,zstd,19,python-import,"python3 -c 'import numpy, pandas, sklearn'",19,2222999901,138780,408317952
+zstd:19,zstd,19,python-import,"python3 -c 'import numpy, pandas, sklearn'",20,2244004023,139552,408317952
+zstd:19,zstd,19,python-import,"python3 -c 'import numpy, pandas, sklearn'",21,2236962198,138768,408317952
+zstd:19,zstd,19,python-import,"python3 -c 'import numpy, pandas, sklearn'",22,2222215909,139024,408317952
+zstd:19,zstd,19,python-import,"python3 -c 'import numpy, pandas, sklearn'",23,2198334247,138820,408317952
+zstd:19,zstd,19,python-import,"python3 -c 'import numpy, pandas, sklearn'",24,2191412006,139340,408317952
+zstd:19,zstd,19,python-import,"python3 -c 'import numpy, pandas, sklearn'",25,2206479255,139152,408317952
+zstd:19,zstd,19,python-import,"python3 -c 'import numpy, pandas, sklearn'",26,2220321097,138772,408317952
+zstd:19,zstd,19,python-import,"python3 -c 'import numpy, pandas, sklearn'",27,2239015421,141208,408317952
+zstd:19,zstd,19,python-import,"python3 -c 'import numpy, pandas, sklearn'",28,2210988595,140516,408317952
+zstd:19,zstd,19,python-import,"python3 -c 'import numpy, pandas, sklearn'",29,2289104541,138928,408317952
+zstd:19,zstd,19,cutadapt,"cutadapt --version",0,325897764,42592,408317952
+zstd:19,zstd,19,cutadapt,"cutadapt --version",1,321540288,40368,408317952
+zstd:19,zstd,19,cutadapt,"cutadapt --version",2,325228161,42800,408317952
+zstd:19,zstd,19,cutadapt,"cutadapt --version",3,323159736,43660,408317952
+zstd:19,zstd,19,cutadapt,"cutadapt --version",4,325513481,42576,408317952
+zstd:19,zstd,19,cutadapt,"cutadapt --version",5,325294048,43140,408317952
+zstd:19,zstd,19,cutadapt,"cutadapt --version",6,330289736,43088,408317952
+zstd:19,zstd,19,cutadapt,"cutadapt --version",7,323383425,43580,408317952
+zstd:19,zstd,19,cutadapt,"cutadapt --version",8,329136886,43416,408317952
+zstd:19,zstd,19,cutadapt,"cutadapt --version",9,328706144,42292,408317952
+zstd:19,zstd,19,cutadapt,"cutadapt --version",10,326977645,42772,408317952
+zstd:19,zstd,19,cutadapt,"cutadapt --version",11,321863757,44504,408317952
+zstd:19,zstd,19,cutadapt,"cutadapt --version",12,321612920,42568,408317952
+zstd:19,zstd,19,cutadapt,"cutadapt --version",13,323212461,42792,408317952
+zstd:19,zstd,19,cutadapt,"cutadapt --version",14,331473272,43220,408317952
+zstd:19,zstd,19,cutadapt,"cutadapt --version",15,325181605,42976,408317952
+zstd:19,zstd,19,cutadapt,"cutadapt --version",16,321918929,45568,408317952
+zstd:19,zstd,19,cutadapt,"cutadapt --version",17,320590877,43300,408317952
+zstd:19,zstd,19,cutadapt,"cutadapt --version",18,322964044,42540,408317952
+zstd:19,zstd,19,cutadapt,"cutadapt --version",19,323108669,43572,408317952
+zstd:19,zstd,19,cutadapt,"cutadapt --version",20,325145644,42704,408317952
+zstd:19,zstd,19,cutadapt,"cutadapt --version",21,325876363,42660,408317952
+zstd:19,zstd,19,cutadapt,"cutadapt --version",22,324400778,42844,408317952
+zstd:19,zstd,19,cutadapt,"cutadapt --version",23,323186016,43220,408317952
+zstd:19,zstd,19,cutadapt,"cutadapt --version",24,327169479,43372,408317952
+zstd:19,zstd,19,cutadapt,"cutadapt --version",25,321664307,42772,408317952
+zstd:19,zstd,19,cutadapt,"cutadapt --version",26,324202488,45296,408317952
+zstd:19,zstd,19,cutadapt,"cutadapt --version",27,328056774,45924,408317952
+zstd:19,zstd,19,cutadapt,"cutadapt --version",28,326420555,40596,408317952
+zstd:19,zstd,19,cutadapt,"cutadapt --version",29,327114403,44972,408317952
+zstd:19,zstd,19,snakemake,"snakemake --version",0,1484203088,79020,408317952
+zstd:19,zstd,19,snakemake,"snakemake --version",1,1481391204,78992,408317952
+zstd:19,zstd,19,snakemake,"snakemake --version",2,1448701827,78684,408317952
+zstd:19,zstd,19,snakemake,"snakemake --version",3,1453534521,78952,408317952
+zstd:19,zstd,19,snakemake,"snakemake --version",4,1450659747,79156,408317952
+zstd:19,zstd,19,snakemake,"snakemake --version",5,1440784368,78804,408317952
+zstd:19,zstd,19,snakemake,"snakemake --version",6,1445314206,79088,408317952
+zstd:19,zstd,19,snakemake,"snakemake --version",7,1433627105,79016,408317952
+zstd:19,zstd,19,snakemake,"snakemake --version",8,1459679081,78668,408317952
+zstd:19,zstd,19,snakemake,"snakemake --version",9,1467769695,79172,408317952
+zstd:19,zstd,19,snakemake,"snakemake --version",10,1444764272,78800,408317952
+zstd:19,zstd,19,snakemake,"snakemake --version",11,1459874830,78692,408317952
+zstd:19,zstd,19,snakemake,"snakemake --version",12,1448387646,78692,408317952
+zstd:19,zstd,19,snakemake,"snakemake --version",13,1454563747,78936,408317952
+zstd:19,zstd,19,snakemake,"snakemake --version",14,1435883244,79172,408317952
+zstd:19,zstd,19,snakemake,"snakemake --version",15,1440843178,79208,408317952
+zstd:19,zstd,19,snakemake,"snakemake --version",16,1449372853,79200,408317952
+zstd:19,zstd,19,snakemake,"snakemake --version",17,1462326721,79132,408317952
+zstd:19,zstd,19,snakemake,"snakemake --version",18,1449196046,79064,408317952
+zstd:19,zstd,19,snakemake,"snakemake --version",19,1467326421,79268,408317952
+zstd:19,zstd,19,snakemake,"snakemake --version",20,1441403297,78792,408317952
+zstd:19,zstd,19,snakemake,"snakemake --version",21,1458415686,78620,408317952
+zstd:19,zstd,19,snakemake,"snakemake --version",22,1458592770,78736,408317952
+zstd:19,zstd,19,snakemake,"snakemake --version",23,1453061674,78716,408317952
+zstd:19,zstd,19,snakemake,"snakemake --version",24,1451119773,78972,408317952
+zstd:19,zstd,19,snakemake,"snakemake --version",25,1482674498,78824,408317952
+zstd:19,zstd,19,snakemake,"snakemake --version",26,1462635143,79292,408317952
+zstd:19,zstd,19,snakemake,"snakemake --version",27,1451681729,79332,408317952
+zstd:19,zstd,19,snakemake,"snakemake --version",28,1436720040,79000,408317952
+zstd:19,zstd,19,snakemake,"snakemake --version",29,1517529756,78996,408317952
+zstd:19,zstd,19,baseline,"true",0,123558333,45360,408317952
+zstd:19,zstd,19,baseline,"true",1,124225128,44844,408317952
+zstd:19,zstd,19,baseline,"true",2,123794054,43452,408317952
+zstd:19,zstd,19,baseline,"true",3,124372009,45020,408317952
+zstd:19,zstd,19,baseline,"true",4,124186078,43136,408317952
+zstd:19,zstd,19,baseline,"true",5,124524043,42152,408317952
+zstd:19,zstd,19,baseline,"true",6,123137322,41892,408317952
+zstd:19,zstd,19,baseline,"true",7,124170377,42716,408317952
+zstd:19,zstd,19,baseline,"true",8,124865687,42804,408317952
+zstd:19,zstd,19,baseline,"true",9,125131646,40216,408317952
+zstd:19,zstd,19,baseline,"true",10,125347732,43068,408317952
+zstd:19,zstd,19,baseline,"true",11,125268843,43992,408317952
+zstd:19,zstd,19,baseline,"true",12,124754995,43036,408317952
+zstd:19,zstd,19,baseline,"true",13,125912874,42796,408317952
+zstd:19,zstd,19,baseline,"true",14,123580696,40720,408317952
+zstd:19,zstd,19,baseline,"true",15,123333521,43080,408317952
+zstd:19,zstd,19,baseline,"true",16,122651662,40980,408317952
+zstd:19,zstd,19,baseline,"true",17,125250266,43328,408317952
+zstd:19,zstd,19,baseline,"true",18,124548181,44888,408317952
+zstd:19,zstd,19,baseline,"true",19,123380045,43092,408317952
+zstd:19,zstd,19,baseline,"true",20,124915638,42356,408317952
+zstd:19,zstd,19,baseline,"true",21,123805425,43040,408317952
+zstd:19,zstd,19,baseline,"true",22,124146166,43260,408317952
+zstd:19,zstd,19,baseline,"true",23,123475341,42144,408317952
+zstd:19,zstd,19,baseline,"true",24,125240834,44536,408317952
+zstd:19,zstd,19,baseline,"true",25,124113357,44472,408317952
+zstd:19,zstd,19,baseline,"true",26,124504168,45264,408317952
+zstd:19,zstd,19,baseline,"true",27,123925261,42320,408317952
+zstd:19,zstd,19,baseline,"true",28,123784571,44908,408317952
+zstd:19,zstd,19,baseline,"true",29,125807287,45072,408317952
+zstd:19,zstd,19,java,"java -version",0,265220306,46680,408317952
+zstd:19,zstd,19,java,"java -version",1,267498474,46176,408317952
+zstd:19,zstd,19,java,"java -version",2,263887537,46604,408317952
+zstd:19,zstd,19,java,"java -version",3,267568887,48552,408317952
+zstd:19,zstd,19,java,"java -version",4,263530127,46244,408317952
+zstd:19,zstd,19,java,"java -version",5,266930526,46404,408317952
+zstd:19,zstd,19,java,"java -version",6,266413991,46580,408317952
+zstd:19,zstd,19,java,"java -version",7,266038984,46312,408317952
+zstd:19,zstd,19,java,"java -version",8,263089705,48684,408317952
+zstd:19,zstd,19,java,"java -version",9,263375958,46332,408317952
+zstd:19,zstd,19,java,"java -version",10,265753069,46380,408317952
+zstd:19,zstd,19,java,"java -version",11,263790382,46316,408317952
+zstd:19,zstd,19,java,"java -version",12,262484230,46488,408317952
+zstd:19,zstd,19,java,"java -version",13,262030445,46564,408317952
+zstd:19,zstd,19,java,"java -version",14,263410785,46316,408317952
+zstd:19,zstd,19,java,"java -version",15,265814356,46644,408317952
+zstd:19,zstd,19,java,"java -version",16,262913666,46528,408317952
+zstd:19,zstd,19,java,"java -version",17,262857036,45992,408317952
+zstd:19,zstd,19,java,"java -version",18,262704382,46684,408317952
+zstd:19,zstd,19,java,"java -version",19,263257686,48456,408317952
+zstd:19,zstd,19,java,"java -version",20,262747740,46552,408317952
+zstd:19,zstd,19,java,"java -version",21,263513486,46348,408317952
+zstd:19,zstd,19,java,"java -version",22,261306647,46672,408317952
+zstd:19,zstd,19,java,"java -version",23,264563181,46508,408317952
+zstd:19,zstd,19,java,"java -version",24,262640522,46168,408317952
+zstd:19,zstd,19,java,"java -version",25,265500194,46616,408317952
+zstd:19,zstd,19,java,"java -version",26,265191278,46672,408317952
+zstd:19,zstd,19,java,"java -version",27,263213815,46628,408317952
+zstd:19,zstd,19,java,"java -version",28,274847049,46256,408317952
+zstd:19,zstd,19,java,"java -version",29,271050590,46260,408317952
+zstd:22,zstd,22,samtools,"samtools --version",0,182579881,42456,408223744
+zstd:22,zstd,22,samtools,"samtools --version",1,183035953,43940,408223744
+zstd:22,zstd,22,samtools,"samtools --version",2,182809782,42884,408223744
+zstd:22,zstd,22,samtools,"samtools --version",3,182774336,42300,408223744
+zstd:22,zstd,22,samtools,"samtools --version",4,183138735,44864,408223744
+zstd:22,zstd,22,samtools,"samtools --version",5,184930284,46128,408223744
+zstd:22,zstd,22,samtools,"samtools --version",6,184738919,42980,408223744
+zstd:22,zstd,22,samtools,"samtools --version",7,182182309,44484,408223744
+zstd:22,zstd,22,samtools,"samtools --version",8,182630230,42540,408223744
+zstd:22,zstd,22,samtools,"samtools --version",9,183281288,44944,408223744
+zstd:22,zstd,22,samtools,"samtools --version",10,182510456,42596,408223744
+zstd:22,zstd,22,samtools,"samtools --version",11,184208099,42956,408223744
+zstd:22,zstd,22,samtools,"samtools --version",12,184059422,42456,408223744
+zstd:22,zstd,22,samtools,"samtools --version",13,182423602,42168,408223744
+zstd:22,zstd,22,samtools,"samtools --version",14,181856210,44908,408223744
+zstd:22,zstd,22,samtools,"samtools --version",15,179991923,43304,408223744
+zstd:22,zstd,22,samtools,"samtools --version",16,183401130,44876,408223744
+zstd:22,zstd,22,samtools,"samtools --version",17,182515799,42860,408223744
+zstd:22,zstd,22,samtools,"samtools --version",18,181075202,42924,408223744
+zstd:22,zstd,22,samtools,"samtools --version",19,182319926,44300,408223744
+zstd:22,zstd,22,samtools,"samtools --version",20,180815769,44976,408223744
+zstd:22,zstd,22,samtools,"samtools --version",21,181553403,45520,408223744
+zstd:22,zstd,22,samtools,"samtools --version",22,182271167,43184,408223744
+zstd:22,zstd,22,samtools,"samtools --version",23,181752243,45332,408223744
+zstd:22,zstd,22,samtools,"samtools --version",24,182647232,45368,408223744
+zstd:22,zstd,22,samtools,"samtools --version",25,180119004,43096,408223744
+zstd:22,zstd,22,samtools,"samtools --version",26,181292889,45416,408223744
+zstd:22,zstd,22,samtools,"samtools --version",27,180658746,43292,408223744
+zstd:22,zstd,22,samtools,"samtools --version",28,179882479,43900,408223744
+zstd:22,zstd,22,samtools,"samtools --version",29,180407972,43272,408223744
+zstd:22,zstd,22,python-import,"python3 -c 'import numpy, pandas, sklearn'",0,2238436952,139036,408223744
+zstd:22,zstd,22,python-import,"python3 -c 'import numpy, pandas, sklearn'",1,2222736429,138796,408223744
+zstd:22,zstd,22,python-import,"python3 -c 'import numpy, pandas, sklearn'",2,2238351625,138896,408223744
+zstd:22,zstd,22,python-import,"python3 -c 'import numpy, pandas, sklearn'",3,2214519383,138568,408223744
+zstd:22,zstd,22,python-import,"python3 -c 'import numpy, pandas, sklearn'",4,2228397131,140964,408223744
+zstd:22,zstd,22,python-import,"python3 -c 'import numpy, pandas, sklearn'",5,2258769929,138976,408223744
+zstd:22,zstd,22,python-import,"python3 -c 'import numpy, pandas, sklearn'",6,2228181398,139540,408223744
+zstd:22,zstd,22,python-import,"python3 -c 'import numpy, pandas, sklearn'",7,2233390721,139252,408223744
+zstd:22,zstd,22,python-import,"python3 -c 'import numpy, pandas, sklearn'",8,2206145330,139164,408223744
+zstd:22,zstd,22,python-import,"python3 -c 'import numpy, pandas, sklearn'",9,2240285826,140720,408223744
+zstd:22,zstd,22,python-import,"python3 -c 'import numpy, pandas, sklearn'",10,2217585448,138940,408223744
+zstd:22,zstd,22,python-import,"python3 -c 'import numpy, pandas, sklearn'",11,2212686710,139120,408223744
+zstd:22,zstd,22,python-import,"python3 -c 'import numpy, pandas, sklearn'",12,2226506527,139272,408223744
+zstd:22,zstd,22,python-import,"python3 -c 'import numpy, pandas, sklearn'",13,2238695524,138696,408223744
+zstd:22,zstd,22,python-import,"python3 -c 'import numpy, pandas, sklearn'",14,2263120791,140968,408223744
+zstd:22,zstd,22,python-import,"python3 -c 'import numpy, pandas, sklearn'",15,2215578281,139352,408223744
+zstd:22,zstd,22,python-import,"python3 -c 'import numpy, pandas, sklearn'",16,2233391717,140300,408223744
+zstd:22,zstd,22,python-import,"python3 -c 'import numpy, pandas, sklearn'",17,2251131465,139004,408223744
+zstd:22,zstd,22,python-import,"python3 -c 'import numpy, pandas, sklearn'",18,2216540285,139384,408223744
+zstd:22,zstd,22,python-import,"python3 -c 'import numpy, pandas, sklearn'",19,2222901063,140864,408223744
+zstd:22,zstd,22,python-import,"python3 -c 'import numpy, pandas, sklearn'",20,2232664636,140956,408223744
+zstd:22,zstd,22,python-import,"python3 -c 'import numpy, pandas, sklearn'",21,2240228682,139016,408223744
+zstd:22,zstd,22,python-import,"python3 -c 'import numpy, pandas, sklearn'",22,2211672327,139320,408223744
+zstd:22,zstd,22,python-import,"python3 -c 'import numpy, pandas, sklearn'",23,2239511556,138888,408223744
+zstd:22,zstd,22,python-import,"python3 -c 'import numpy, pandas, sklearn'",24,2203204243,139400,408223744
+zstd:22,zstd,22,python-import,"python3 -c 'import numpy, pandas, sklearn'",25,2249972099,139400,408223744
+zstd:22,zstd,22,python-import,"python3 -c 'import numpy, pandas, sklearn'",26,2228153351,140304,408223744
+zstd:22,zstd,22,python-import,"python3 -c 'import numpy, pandas, sklearn'",27,2222715201,138780,408223744
+zstd:22,zstd,22,python-import,"python3 -c 'import numpy, pandas, sklearn'",28,2206537189,139120,408223744
+zstd:22,zstd,22,python-import,"python3 -c 'import numpy, pandas, sklearn'",29,2227928837,138980,408223744
+zstd:22,zstd,22,cutadapt,"cutadapt --version",0,329049899,42952,408223744
+zstd:22,zstd,22,cutadapt,"cutadapt --version",1,325641066,44496,408223744
+zstd:22,zstd,22,cutadapt,"cutadapt --version",2,322913193,43320,408223744
+zstd:22,zstd,22,cutadapt,"cutadapt --version",3,326489828,42736,408223744
+zstd:22,zstd,22,cutadapt,"cutadapt --version",4,325819703,43680,408223744
+zstd:22,zstd,22,cutadapt,"cutadapt --version",5,327190536,42900,408223744
+zstd:22,zstd,22,cutadapt,"cutadapt --version",6,323604763,41632,408223744
+zstd:22,zstd,22,cutadapt,"cutadapt --version",7,324159975,44216,408223744
+zstd:22,zstd,22,cutadapt,"cutadapt --version",8,323801577,40868,408223744
+zstd:22,zstd,22,cutadapt,"cutadapt --version",9,326047809,42912,408223744
+zstd:22,zstd,22,cutadapt,"cutadapt --version",10,324733778,45348,408223744
+zstd:22,zstd,22,cutadapt,"cutadapt --version",11,325724830,43992,408223744
+zstd:22,zstd,22,cutadapt,"cutadapt --version",12,325620597,42908,408223744
+zstd:22,zstd,22,cutadapt,"cutadapt --version",13,327397632,42644,408223744
+zstd:22,zstd,22,cutadapt,"cutadapt --version",14,322983028,43248,408223744
+zstd:22,zstd,22,cutadapt,"cutadapt --version",15,327416627,43836,408223744
+zstd:22,zstd,22,cutadapt,"cutadapt --version",16,324637010,42828,408223744
+zstd:22,zstd,22,cutadapt,"cutadapt --version",17,325664112,44920,408223744
+zstd:22,zstd,22,cutadapt,"cutadapt --version",18,324557511,43372,408223744
+zstd:22,zstd,22,cutadapt,"cutadapt --version",19,323713551,44428,408223744
+zstd:22,zstd,22,cutadapt,"cutadapt --version",20,325450435,43368,408223744
+zstd:22,zstd,22,cutadapt,"cutadapt --version",21,323922740,42912,408223744
+zstd:22,zstd,22,cutadapt,"cutadapt --version",22,326518206,43400,408223744
+zstd:22,zstd,22,cutadapt,"cutadapt --version",23,322897017,44908,408223744
+zstd:22,zstd,22,cutadapt,"cutadapt --version",24,322541443,42848,408223744
+zstd:22,zstd,22,cutadapt,"cutadapt --version",25,324943947,44832,408223744
+zstd:22,zstd,22,cutadapt,"cutadapt --version",26,323198512,43036,408223744
+zstd:22,zstd,22,cutadapt,"cutadapt --version",27,325476997,42836,408223744
+zstd:22,zstd,22,cutadapt,"cutadapt --version",28,325808186,40696,408223744
+zstd:22,zstd,22,cutadapt,"cutadapt --version",29,323582643,42700,408223744
+zstd:22,zstd,22,snakemake,"snakemake --version",0,1457037757,79204,408223744
+zstd:22,zstd,22,snakemake,"snakemake --version",1,1457020359,79056,408223744
+zstd:22,zstd,22,snakemake,"snakemake --version",2,1461833302,79352,408223744
+zstd:22,zstd,22,snakemake,"snakemake --version",3,1447433380,79180,408223744
+zstd:22,zstd,22,snakemake,"snakemake --version",4,1451672685,79300,408223744
+zstd:22,zstd,22,snakemake,"snakemake --version",5,1466380313,78948,408223744
+zstd:22,zstd,22,snakemake,"snakemake --version",6,1458437931,79068,408223744
+zstd:22,zstd,22,snakemake,"snakemake --version",7,1488925108,79100,408223744
+zstd:22,zstd,22,snakemake,"snakemake --version",8,1466266799,78960,408223744
+zstd:22,zstd,22,snakemake,"snakemake --version",9,1489956314,79216,408223744
+zstd:22,zstd,22,snakemake,"snakemake --version",10,1456909569,79424,408223744
+zstd:22,zstd,22,snakemake,"snakemake --version",11,1472328506,78364,408223744
+zstd:22,zstd,22,snakemake,"snakemake --version",12,1460771174,79068,408223744
+zstd:22,zstd,22,snakemake,"snakemake --version",13,1475330312,79420,408223744
+zstd:22,zstd,22,snakemake,"snakemake --version",14,1447492380,79176,408223744
+zstd:22,zstd,22,snakemake,"snakemake --version",15,1449658931,79032,408223744
+zstd:22,zstd,22,snakemake,"snakemake --version",16,1477561706,79156,408223744
+zstd:22,zstd,22,snakemake,"snakemake --version",17,1443153356,78816,408223744
+zstd:22,zstd,22,snakemake,"snakemake --version",18,1468723631,79140,408223744
+zstd:22,zstd,22,snakemake,"snakemake --version",19,1483712183,79216,408223744
+zstd:22,zstd,22,snakemake,"snakemake --version",20,1467287808,79076,408223744
+zstd:22,zstd,22,snakemake,"snakemake --version",21,1460075290,79524,408223744
+zstd:22,zstd,22,snakemake,"snakemake --version",22,1452757641,79160,408223744
+zstd:22,zstd,22,snakemake,"snakemake --version",23,1449515169,78972,408223744
+zstd:22,zstd,22,snakemake,"snakemake --version",24,1438742820,78664,408223744
+zstd:22,zstd,22,snakemake,"snakemake --version",25,1447702465,78644,408223744
+zstd:22,zstd,22,snakemake,"snakemake --version",26,1460999230,79252,408223744
+zstd:22,zstd,22,snakemake,"snakemake --version",27,1451701524,79236,408223744
+zstd:22,zstd,22,snakemake,"snakemake --version",28,1453249378,79184,408223744
+zstd:22,zstd,22,snakemake,"snakemake --version",29,1459434947,78980,408223744
+zstd:22,zstd,22,baseline,"true",0,131815145,42708,408223744
+zstd:22,zstd,22,baseline,"true",1,127004962,42336,408223744
+zstd:22,zstd,22,baseline,"true",2,126662335,44248,408223744
+zstd:22,zstd,22,baseline,"true",3,126564177,41320,408223744
+zstd:22,zstd,22,baseline,"true",4,135381179,42660,408223744
+zstd:22,zstd,22,baseline,"true",5,129111125,43296,408223744
+zstd:22,zstd,22,baseline,"true",6,132676951,45508,408223744
+zstd:22,zstd,22,baseline,"true",7,129240623,40252,408223744
+zstd:22,zstd,22,baseline,"true",8,129132383,43168,408223744
+zstd:22,zstd,22,baseline,"true",9,131597670,42976,408223744
+zstd:22,zstd,22,baseline,"true",10,130187164,42708,408223744
+zstd:22,zstd,22,baseline,"true",11,131770549,42700,408223744
+zstd:22,zstd,22,baseline,"true",12,131163851,42748,408223744
+zstd:22,zstd,22,baseline,"true",13,135377956,44136,408223744
+zstd:22,zstd,22,baseline,"true",14,135115342,42824,408223744
+zstd:22,zstd,22,baseline,"true",15,130386405,44492,408223744
+zstd:22,zstd,22,baseline,"true",16,127838660,42340,408223744
+zstd:22,zstd,22,baseline,"true",17,129681711,43752,408223744
+zstd:22,zstd,22,baseline,"true",18,128953133,43196,408223744
+zstd:22,zstd,22,baseline,"true",19,128705969,42992,408223744
+zstd:22,zstd,22,baseline,"true",20,128753535,42196,408223744
+zstd:22,zstd,22,baseline,"true",21,127018089,41760,408223744
+zstd:22,zstd,22,baseline,"true",22,128158354,43156,408223744
+zstd:22,zstd,22,baseline,"true",23,134831833,42652,408223744
+zstd:22,zstd,22,baseline,"true",24,129449381,42908,408223744
+zstd:22,zstd,22,baseline,"true",25,127118520,43172,408223744
+zstd:22,zstd,22,baseline,"true",26,125891153,41204,408223744
+zstd:22,zstd,22,baseline,"true",27,128671057,42468,408223744
+zstd:22,zstd,22,baseline,"true",28,144047793,42880,408223744
+zstd:22,zstd,22,baseline,"true",29,136087736,45152,408223744
+zstd:22,zstd,22,java,"java -version",0,269312272,46556,408223744
+zstd:22,zstd,22,java,"java -version",1,267522744,46372,408223744
+zstd:22,zstd,22,java,"java -version",2,269977087,45872,408223744
+zstd:22,zstd,22,java,"java -version",3,267047906,46728,408223744
+zstd:22,zstd,22,java,"java -version",4,267806745,46520,408223744
+zstd:22,zstd,22,java,"java -version",5,267361963,46328,408223744
+zstd:22,zstd,22,java,"java -version",6,268977686,46592,408223744
+zstd:22,zstd,22,java,"java -version",7,264498582,46552,408223744
+zstd:22,zstd,22,java,"java -version",8,268613627,46468,408223744
+zstd:22,zstd,22,java,"java -version",9,270825883,46600,408223744
+zstd:22,zstd,22,java,"java -version",10,271808101,46356,408223744
+zstd:22,zstd,22,java,"java -version",11,268697146,46532,408223744
+zstd:22,zstd,22,java,"java -version",12,267277412,46568,408223744
+zstd:22,zstd,22,java,"java -version",13,269192144,46544,408223744
+zstd:22,zstd,22,java,"java -version",14,272392758,45884,408223744
+zstd:22,zstd,22,java,"java -version",15,271409744,48020,408223744
+zstd:22,zstd,22,java,"java -version",16,290865754,46284,408223744
+zstd:22,zstd,22,java,"java -version",17,269804227,46268,408223744
+zstd:22,zstd,22,java,"java -version",18,269064315,46456,408223744
+zstd:22,zstd,22,java,"java -version",19,267017199,46636,408223744
+zstd:22,zstd,22,java,"java -version",20,270891293,46748,408223744
+zstd:22,zstd,22,java,"java -version",21,270612492,46244,408223744
+zstd:22,zstd,22,java,"java -version",22,266785742,48360,408223744
+zstd:22,zstd,22,java,"java -version",23,266506615,46508,408223744
+zstd:22,zstd,22,java,"java -version",24,265489237,48500,408223744
+zstd:22,zstd,22,java,"java -version",25,267852437,46448,408223744
+zstd:22,zstd,22,java,"java -version",26,277204292,46188,408223744
+zstd:22,zstd,22,java,"java -version",27,266896114,46400,408223744
+zstd:22,zstd,22,java,"java -version",28,268049951,46456,408223744
+zstd:22,zstd,22,java,"java -version",29,269749048,46276,408223744
